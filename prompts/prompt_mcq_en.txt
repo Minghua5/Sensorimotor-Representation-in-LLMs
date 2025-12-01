@@ -1,0 +1,7 @@
+Read the question and the answer choices below. Choose the single best answer and reply with exactly one uppercase letter from the set {A, B, C, D} — and nothing else.
+
+Question "{index}":
+{question}
+
+Choices:
+{options}
