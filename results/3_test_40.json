@@ -1,0 +1,6162 @@
+[
+  {
+    "index": 1036,
+    "question": "Which of the following colors is least likely to be an adjacent color to deep green?",
+    "options": {
+      "A": "Yellow-green",
+      "B": "Olive green",
+      "C": "Purple-red",
+      "D": "Claret red"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 1107,
+    "question": "Compared to green, what is the color tone of mint green?",
+    "options": {
+      "A": "More reddish",
+      "B": "More orangish",
+      "C": "More bluish",
+      "D": "More yellowish"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 1086,
+    "question": "When reducing the saturation of pale green, how does its brightness typically change?",
+    "options": {
+      "A": "Remains unchanged",
+      "B": "It depends",
+      "C": "Decreases",
+      "D": "Increases"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 1139,
+    "question": "What color is closest to the complementary color of lilac-like purple?",
+    "options": {
+      "A": "Green",
+      "B": "Orange",
+      "C": "Blue",
+      "D": "Red"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1130,
+    "question": "What color is closest to the complementary color of navy blue?",
+    "options": {
+      "A": "Orange",
+      "B": "Purple",
+      "C": "Yellow-green",
+      "D": "Red"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 1010,
+    "question": "Which of the following colors least resembles the complementary color of yellow-orange?",
+    "options": {
+      "A": "Red",
+      "B": "Green",
+      "C": "Purple",
+      "D": "Blue"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1047,
+    "question": "When lowering the brightness of blue, how does its saturation typically change?",
+    "options": {
+      "A": "Remains unchanged",
+      "B": "Not necessarily",
+      "C": "Increases",
+      "D": "Decreases"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 1076,
+    "question": "When reducing the saturation of orange, how does its brightness typically change?",
+    "options": {
+      "A": "It depends",
+      "B": "Increases",
+      "C": "Decreases",
+      "D": "Remains unchanged"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1144,
+    "question": "What color is closest to the complementary color of cinnamon?",
+    "options": {
+      "A": "Red",
+      "B": "Purple",
+      "C": "Blue",
+      "D": "Yellow"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 1148,
+    "question": "What color is closest to the complementary color of army green?",
+    "options": {
+      "A": "Reddish-brown",
+      "B": "Orange",
+      "C": "Purple",
+      "D": "Pink"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1042,
+    "question": "Which of the following color combinations are closest in hue?",
+    "options": {
+      "A": "Orange and green",
+      "B": "Red and orange",
+      "C": "Yellow and purple",
+      "D": "Green and red"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 1080,
+    "question": "When reducing the saturation of deep red, how does its brightness typically change?",
+    "options": {
+      "A": "It depends",
+      "B": "Decreases",
+      "C": "Remains unchanged",
+      "D": "Increases"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1170,
+    "question": "When increasing the brightness of rose gold, how does its saturation typically change?",
+    "options": {
+      "A": "Increase",
+      "B": "Decrease",
+      "C": "Not necessarily",
+      "D": "Remain unchanged"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 1089,
+    "question": "When reducing the saturation of yellow-green, how does its brightness typically change?",
+    "options": {
+      "A": "Decreases",
+      "B": "Increases",
+      "C": "It depends",
+      "D": "Remains unchanged"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 1178,
+    "question": "When reducing the saturation of lavender purple, how does its brightness typically change?",
+    "options": {
+      "A": "It varies",
+      "B": "Decreases",
+      "C": "Remains unchanged",
+      "D": "Increases"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1085,
+    "question": "When reducing the saturation of light green, how does its brightness typically change?",
+    "options": {
+      "A": "Remains unchanged",
+      "B": "Increases",
+      "C": "It depends",
+      "D": "Decreases"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 1169,
+    "question": "When increasing the brightness of beige, how does its saturation typically change?",
+    "options": {
+      "A": "Not necessarily",
+      "B": "Increase",
+      "C": "Remain unchanged",
+      "D": "Decrease"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 1111,
+    "question": "Compared to pink, what is the hue of salmon color?",
+    "options": {
+      "A": "More bluish",
+      "B": "More orangish",
+      "C": "More greenish",
+      "D": "More purplish"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 1019,
+    "question": "Which of the following colors least resembles the complementary color of cyan?",
+    "options": {
+      "A": "Orange",
+      "B": "Yellow",
+      "C": "Blue",
+      "D": "Red"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 1187,
+    "question": "When reducing the saturation of olive green, how does its brightness typically change?",
+    "options": {
+      "A": "Not necessarily",
+      "B": "Increases",
+      "C": "Remains unchanged",
+      "D": "Decreases"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1117,
+    "question": "Which of the following colors is least likely to be an adjacent color to lavender purple?",
+    "options": {
+      "A": "Lilac-like purple",
+      "B": "Pale purple-blue",
+      "C": "Olive green",
+      "D": "Light purple"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 1137,
+    "question": "What color is closest to the complementary color of honey-like yellow?",
+    "options": {
+      "A": "Orange",
+      "B": "Purple",
+      "C": "Green",
+      "D": "Blue"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 1115,
+    "question": "Which of the following colors is least likely to be an adjacent color to coral red?",
+    "options": {
+      "A": "Peach",
+      "B": "Deep blue",
+      "C": "Pink",
+      "D": "Orange"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 1195,
+    "question": "When reducing the saturation of rose gold, how does its brightness typically change?",
+    "options": {
+      "A": "Increase",
+      "B": "Remain unchanged",
+      "C": "Decrease",
+      "D": "Not necessarily"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 1083,
+    "question": "When reducing the saturation of light yellow, how does its brightness typically change?",
+    "options": {
+      "A": "It depends",
+      "B": "Decreases",
+      "C": "Remains unchanged",
+      "D": "Increases"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1046,
+    "question": "Which of the following color combinations has the lowest color contrast?",
+    "options": {
+      "A": "Green and blue",
+      "B": "Blue and orange",
+      "C": "Red and cyan",
+      "D": "Yellow and purple"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1114,
+    "question": "Which of the following colors is closest in hue to lavender purple?",
+    "options": {
+      "A": "Gray-green",
+      "B": "Deep blue",
+      "C": "Pale pink",
+      "D": "Light purple"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 1072,
+    "question": "When reducing the saturation of blue, how does its brightness typically change?",
+    "options": {
+      "A": "Increases",
+      "B": "It depends",
+      "C": "Remains unchanged",
+      "D": "Decreases"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 1167,
+    "question": "When increasing the brightness of Prussian blue, how does its saturation typically change?",
+    "options": {
+      "A": "Decrease",
+      "B": "Not necessarily",
+      "C": "Remain unchanged",
+      "D": "Increase"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1023,
+    "question": "Which of the following colors least resembles the complementary color of light purple?",
+    "options": {
+      "A": "Green",
+      "B": "Yellow",
+      "C": "Red",
+      "D": "Orange"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 1095,
+    "question": "When reducing the saturation of deep purple, how does its brightness typically change?",
+    "options": {
+      "A": "Decreases",
+      "B": "Remains unchanged",
+      "C": "It depends",
+      "D": "Increases"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 1176,
+    "question": "When reducing the saturation of coral red, how does its brightness typically change?",
+    "options": {
+      "A": "Increases",
+      "B": "Decreases",
+      "C": "It varies",
+      "D": "Remains unchanged"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 1035,
+    "question": "Which of the following colors is least likely to be an adjacent color to light blue?",
+    "options": {
+      "A": "Light cyan",
+      "B": "Deep red",
+      "C": "Light grayish blue",
+      "D": "Light purple"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 1030,
+    "question": "Which of the following colors is least likely to be an adjacent color to light cyan?",
+    "options": {
+      "A": "Light blue-green",
+      "B": "Light blue",
+      "C": "Light green",
+      "D": "Deep red"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 1009,
+    "question": "Which of the following colors least resembles the complementary color of deep red?",
+    "options": {
+      "A": "Orange",
+      "B": "Blue",
+      "C": "Cyan",
+      "D": "Green"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1156,
+    "question": "When lowering the brightness of grass green, how does its saturation typically change?",
+    "options": {
+      "A": "Decrease",
+      "B": "Increase",
+      "C": "Not necessarily",
+      "D": "Remain unchanged"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1063,
+    "question": "When increasing the brightness of blue-green, how does its saturation typically change?",
+    "options": {
+      "A": "Not necessarily",
+      "B": "Remain unchanged",
+      "C": "Decrease",
+      "D": "Increase"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 1032,
+    "question": "Which of the following colors is least likely to be an adjacent color to light pink?",
+    "options": {
+      "A": "Light orange",
+      "B": "Light red",
+      "C": "Light purple",
+      "D": "Dark green"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 1054,
+    "question": "When lowering the brightness of light red, how does its saturation typically change?",
+    "options": {
+      "A": "Decrease",
+      "B": "Remain unchanged",
+      "C": "Not necessarily",
+      "D": "Increase"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1051,
+    "question": "When lowering the brightness of orange, how does its saturation typically change?",
+    "options": {
+      "A": "Decrease",
+      "B": "Remain unchanged",
+      "C": "Increase",
+      "D": "Not necessarily"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1140,
+    "question": "What color is closest to the complementary color of Prussian blue?",
+    "options": {
+      "A": "Purple",
+      "B": "Green",
+      "C": "Blue",
+      "D": "Brown"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 1029,
+    "question": "Which of the following colors is least likely to be an adjacent color to red-orange?",
+    "options": {
+      "A": "Red",
+      "B": "Yellow-orange",
+      "C": "Orange",
+      "D": "Blue"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 1153,
+    "question": "When lowering the brightness of lavender purple, how does its saturation typically change?",
+    "options": {
+      "A": "Increase",
+      "B": "Decrease",
+      "C": "Remain unchanged",
+      "D": "Not necessarily"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 1177,
+    "question": "When reducing the saturation of lake blue, how does its brightness typically change?",
+    "options": {
+      "A": "Increase",
+      "B": "Decrease",
+      "C": "Remain unchanged",
+      "D": "Not necessarily"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 1134,
+    "question": "What color is closest to the complementary color of mint green?",
+    "options": {
+      "A": "Purple",
+      "B": "Green",
+      "C": "Orange",
+      "D": "Blue"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1091,
+    "question": "When reducing the saturation of light blue, how does its brightness typically change?",
+    "options": {
+      "A": "Remains unchanged",
+      "B": "It depends",
+      "C": "Decreases",
+      "D": "Increases"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 1118,
+    "question": "Which of the following colors is least likely to be an adjacent color to navy blue?",
+    "options": {
+      "A": "Prussian blue",
+      "B": "Indigo",
+      "C": "Bright yellow",
+      "D": "Dark blue"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 1102,
+    "question": "Compared to purple, what is the hue of smoky purple?",
+    "options": {
+      "A": "More grayish",
+      "B": "More yellowish",
+      "C": "More orangish",
+      "D": "More reddish"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1164,
+    "question": "When increasing the brightness of aloe green, how does its saturation typically change?",
+    "options": {
+      "A": "Increase",
+      "B": "Decrease",
+      "C": "Remain unchanged",
+      "D": "Not necessarily"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 1059,
+    "question": "When increasing the brightness of brown, how does its saturation typically change?",
+    "options": {
+      "A": "Not necessarily",
+      "B": "Remain unchanged",
+      "C": "Decrease",
+      "D": "Increase"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 1007,
+    "question": "Which of the following colors least resembles the complementary color of royal blue?",
+    "options": {
+      "A": "Green",
+      "B": "Orange",
+      "C": "Yellow",
+      "D": "Purple"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 1049,
+    "question": "When lowering the brightness of green, how does its saturation typically change?",
+    "options": {
+      "A": "Not necessarily",
+      "B": "Increase",
+      "C": "Decrease",
+      "D": "Remain unchanged"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 1050,
+    "question": "When lowering the brightness of yellow, how does its saturation typically change?",
+    "options": {
+      "A": "Not necessarily",
+      "B": "Remains unchanged",
+      "C": "Increases",
+      "D": "Decreases"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 1018,
+    "question": "Which of the following colors least resembles the complementary color of yellow-green?",
+    "options": {
+      "A": "Yellow",
+      "B": "Purple",
+      "C": "Blue",
+      "D": "Pink"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1131,
+    "question": "What color is closest to the complementary color of sky blue?",
+    "options": {
+      "A": "Red-orange",
+      "B": "Green",
+      "C": "Yellow",
+      "D": "Purple"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1142,
+    "question": "What color is closest to the complementary color of beige?",
+    "options": {
+      "A": "Orange",
+      "B": "Green",
+      "C": "Red",
+      "D": "Purple-blue"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 1008,
+    "question": "Which of the following colors least resembles the complementary color of light red?",
+    "options": {
+      "A": "Blue",
+      "B": "Yellow",
+      "C": "Purple",
+      "D": "Green"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 1157,
+    "question": "When lowering the brightness of lemon yellow, how does its saturation typically change?",
+    "options": {
+      "A": "Remain unchanged",
+      "B": "Decrease",
+      "C": "Increase",
+      "D": "Not necessarily"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 1013,
+    "question": "Which of the following colors least resembles the complementary color of brown?",
+    "options": {
+      "A": "Orange",
+      "B": "Purple",
+      "C": "Green",
+      "D": "Blue"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1106,
+    "question": "Compared to purple, what is the hue of hibiscus-like purple?",
+    "options": {
+      "A": "More bluish",
+      "B": "More pinkish",
+      "C": "More greenish",
+      "D": "More orangish"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 1186,
+    "question": "When reducing the saturation of pomegranate-like red, how does its brightness typically change?",
+    "options": {
+      "A": "Increase",
+      "B": "Decrease",
+      "C": "Remain unchanged",
+      "D": "Not necessarily"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 1192,
+    "question": "When reducing the saturation of Prussian blue, how does its brightness typically change?",
+    "options": {
+      "A": "Not necessarily",
+      "B": "Decrease",
+      "C": "Remain unchanged",
+      "D": "Increase"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1055,
+    "question": "When lowering the brightness of deep red, how does its saturation typically change?",
+    "options": {
+      "A": "Decrease",
+      "B": "Remain unchanged",
+      "C": "Not necessarily",
+      "D": "Increase"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1031,
+    "question": "Which of the following colors is least likely to be an adjacent color to dark brown?",
+    "options": {
+      "A": "Dark red",
+      "B": "Bright blue",
+      "C": "Dark yellow",
+      "D": "Dark orange"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 1012,
+    "question": "Which of the following colors least resembles the complementary color of light yellow?",
+    "options": {
+      "A": "Orange",
+      "B": "Blue",
+      "C": "Cyan",
+      "D": "Purple"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1026,
+    "question": "Which of the following colors is least likely to be an adjacent color to deep purple?",
+    "options": {
+      "A": "Red-purple",
+      "B": "Indigo blue",
+      "C": "Yellow-orange",
+      "D": "Purple-blue"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 1103,
+    "question": "Compared to red, what is the hue of vermilion?",
+    "options": {
+      "A": "More orangish",
+      "B": "More purplish",
+      "C": "More greenish",
+      "D": "More bluish"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1098,
+    "question": "Compared to red, what is the hue of cherry red??",
+    "options": {
+      "A": "More purplish",
+      "B": "More bluish",
+      "C": "More greenish",
+      "D": "More orangish"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1017,
+    "question": "Which of the following colors least resembles the complementary color of blue-green?",
+    "options": {
+      "A": "Blue",
+      "B": "Orange",
+      "C": "Red",
+      "D": "Pink"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1060,
+    "question": "When increasing the brightness of light green, how does its saturation typically change?",
+    "options": {
+      "A": "Remain unchanged",
+      "B": "Not necessarily",
+      "C": "Decrease",
+      "D": "Increase"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 1146,
+    "question": "What color is closest to the complementary color of bean mung bean-like green?",
+    "options": {
+      "A": "Red",
+      "B": "Mauve",
+      "C": "Orange",
+      "D": "Blue"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 1097,
+    "question": "When reducing the saturation of khaki, how does its brightness typically change?",
+    "options": {
+      "A": "It depends",
+      "B": "Remains unchanged",
+      "C": "Increases",
+      "D": "Decreases"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1096,
+    "question": "When reducing the saturation of purple-red, how does its brightness typically change?",
+    "options": {
+      "A": "Decreases",
+      "B": "It depends",
+      "C": "Remains unchanged",
+      "D": "Increases"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 1001,
+    "question": "Which of the following colors least resembles the complementary color of red?",
+    "options": {
+      "A": "Blue",
+      "B": "Yellow",
+      "C": "Green",
+      "D": "Cyan"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 1136,
+    "question": "What color is closest to the complementary color of pomegranate-like red?",
+    "options": {
+      "A": "Green",
+      "B": "Blue",
+      "C": "Purple",
+      "D": "Orange"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1045,
+    "question": "Which of the following color combinations is most likely to produce a strong visual contrast?",
+    "options": {
+      "A": "Red and orange",
+      "B": "Red and blue",
+      "C": "Yellow and green",
+      "D": "Blue and green"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 1123,
+    "question": "Which of the following colors is least likely to be adjacent to amber?",
+    "options": {
+      "A": "Indigo blue",
+      "B": "Brown",
+      "C": "Orange",
+      "D": "Golden yellow"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1166,
+    "question": "When increasing the brightness of lilac-like purple, how does its saturation typically change?",
+    "options": {
+      "A": "Remain unchanged",
+      "B": "Increase",
+      "C": "Not necessarily",
+      "D": "Decrease"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 1022,
+    "question": "Which of the following colors least resembles the complementary color of purple?",
+    "options": {
+      "A": "Blue",
+      "B": "Yellow",
+      "C": "Green",
+      "D": "Orange"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 1143,
+    "question": "What color is closest to the complementary color of rose gold?",
+    "options": {
+      "A": "Orange",
+      "B": "Red",
+      "C": "Green",
+      "D": "Blue"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 2093,
+    "question": "Which of these foods has the highest color saturation?",
+    "options": {
+      "A": "Raw shrimp",
+      "B": "Raw pork",
+      "C": "Raw crucian carp",
+      "D": "Cooked crab meat"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 2130,
+    "question": "Which group of ornamental plants is more appropriately classified by warm and cool colors?",
+    "options": {
+      "A": "Group 1 (rape flower, amaryllis), Group 2 (mint, lavender)",
+      "B": "Group 1 (rape flower, amaryllis, lavender), Group 2 (mint)",
+      "C": "Group 1 (rape flower, amaryllis, mint), Group 2 (lavender)",
+      "D": "Group 1 (rape flower, lavender), Group 2 (mint, amaryllis)"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 2086,
+    "question": "Which of the following options groups foods by color more appropriately?",
+    "options": {
+      "A": "Group 1 (raw lamb, cooked crab shell), Group 2 (cooked chicken, jellyfish), Group 3 (raw crab, raw eel)",
+      "B": "Group 1 (raw lamb, jellyfish), Group 2 (cooked chicken, cooked crab shell), Group 3 (raw crab, raw eel)",
+      "C": "Group 1 (raw lamb, cooked crab shell, cooked chicken), Group 2 (jellyfish), Group 3 (raw crab, raw eel)",
+      "D": "Group 1 (raw lamb, cooked crab shell, jellyfish), Group 2 (cooked chicken, cooked crab meat), Group 3 (raw crab, raw eel)"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 2002,
+    "question": "Which animal's fur color is closest to achromatic color?",
+    "options": {
+      "A": "Giraffe",
+      "B": "Cheetah",
+      "C": "Lion",
+      "D": "Sheep"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 2186,
+    "question": "Which group of fruits and vegetables is more appropriately classified by warm and cool colors?",
+    "options": {
+      "A": "Group 1 (corn, bitter gourd), Group 2 (cucumber, potato)",
+      "B": "Group 1 (corn, potato, bitter gourd), Group 2 (cucumber)",
+      "C": "Group 1 (corn, potato, cucumber), Group 2 (bitter gourd)",
+      "D": "Group 1 (corn, potato), Group 2 (cucumber, bitter gourd)"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 2033,
+    "question": "Which of the following options groups animals by color more appropriately?",
+    "options": {
+      "A": "Group 1 (cheetah, lion, deer), Group 2 (grizzly)",
+      "B": "Group 1 (cheetah, grizzly), Group 2 (deer, lion)",
+      "C": "Group 1 (cheetah, lion), Group 2 (deer, grizzly)",
+      "D": "Group 1 (cheetah, lion, grizzly), Group 2 (deer)"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 2084,
+    "question": "Which of the following options groups foods by color more appropriately?",
+    "options": {
+      "A": "Group 1 (raw beef, cooked crayfish, jellyfish), Group 2 (cooked chicken), Group 3 (raw crab, raw eel)",
+      "B": "Group 1 (raw beef, cooked crayfish, cooked chicken), Group 2 (jellyfish), Group 3 (raw crab, raw eel)",
+      "C": "Group 1 (raw beef, jellyfish), Group 2 (cooked chicken, cooked crayfish), Group 3 (raw crab, raw eel)",
+      "D": "Group 1 (raw beef, cooked crayfish), Group 2 (cooked chicken, jellyfish), Group 3 (raw crab, raw eel)"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 2195,
+    "question": "Which group of fruits and vegetables is more appropriately classified by warm and cool colors?",
+    "options": {
+      "A": "Group 1 (dragon fruit skin, cherry, rambutan shell, cilantro), Group 2 (crown daisy, watermelon rind)",
+      "B": "Group 1 (dragon fruit skin, cilantro, rambutan shell), Group 2 (crown daisy, cherry, watermelon rind)",
+      "C": "Group 1 (dragon fruit skin, cherry, rambutan shell), Group 2 (crown daisy, cilantro, watermelon rind)",
+      "D": "Group 1 (dragon fruit skin, cherry, rambutan shell, crown daisy), Group 2 (cilantro, watermelon rind)"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 2177,
+    "question": "Which group of fruits and vegetables is more appropriately classified by warm and cool colors?",
+    "options": {
+      "A": "Group 1 (Red Fuji apple, strawberry), Group 2 (bitter gourd, lettuce)",
+      "B": "Group 1 (Red Fuji apple, strawberry, lettuce), Group 2 (bitter gourd)",
+      "C": "Group 1 (Red Fuji apple, strawberry, bitter gourd), Group 2 (lettuce)",
+      "D": "Group 1 (Red Fuji apple, lettuce), Group 2 (bitter gourd, strawberry)"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 2001,
+    "question": "Which animal's fur color is closest to achromatic color?",
+    "options": {
+      "A": "Grizzly",
+      "B": "Cheetah",
+      "C": "Lion",
+      "D": "Polar bear"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 2149,
+    "question": "Which of the following options groups fruits and vegetables by color more appropriately?",
+    "options": {
+      "A": "Group 1 (orange, tangerine, cucumber), Group 2 (loofah)",
+      "B": "Group 1 (orange, loofah), Group 2 (cucumber, tangerine)",
+      "C": "Group 1 (orange, tangerine), Group 2 (cucumber, loofah)",
+      "D": "Group 1 (orange, tangerine, loofah), Group 2 (cucumber)"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 2032,
+    "question": "Which of the following options groups animals by color more appropriately?",
+    "options": {
+      "A": "Group 1 (pig, flamingo, cheetah), Group 2 (giraffe)",
+      "B": "Group 1 (pig, flamingo, giraffe), Group 2 (cheetah)",
+      "C": "Group 1 (pig, cheetah), Group 2 (giraffe, flamingo)",
+      "D": "Group 1 (pig, flamingo), Group 2 (giraffe, cheetah)"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 2067,
+    "question": "Which of the following options groups foods by color more appropriately?",
+    "options": {
+      "A": "Group 1 (raw beef, raw lamb, raw shrimp), Group 2 (raw crayfish)",
+      "B": "Group 1 (raw beef, raw crayfish), Group 2 (raw shrimp, raw lamb)",
+      "C": "Group 1 (raw beef, raw lamb, raw crayfish), Group 2 (raw shrimp)",
+      "D": "Group 1 (raw beef, raw lamb), Group 2 (raw shrimp, raw crayfish)"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 2066,
+    "question": "Which of the following options groups foods by color more appropriately?",
+    "options": {
+      "A": "Group 1 (raw pork, raw beef), Group 2 (raw crab, raw shrimp)",
+      "B": "Group 1 (raw pork, raw beef, raw shrimp), Group 2 (raw crab)",
+      "C": "Group 1 (raw pork, raw beef, raw crab), Group 2 (raw shrimp)",
+      "D": "Group 1 (raw pork, raw shrimp), Group 2 (raw crab, raw beef)"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 2089,
+    "question": "Which of the following options groups foods by color more appropriately?",
+    "options": {
+      "A": "Group 1 (raw pork, raw beef, raw lamb, cooked shrimp, cooked crayfish, cooked crab shell), Group 2 (cooked chicken, jellyfish, cooked crab meat), Group 3 (raw crab, raw shrimp, raw crayfish, raw crucian carp, raw catfish, raw eel)",
+      "B": "Group 1 (raw pork, jellyfish, raw lamb, cooked shrimp, cooked crayfish, cooked crab shell), Group 2 (cooked chicken, raw beef, cooked crab meat), Group 3 (raw crab, raw shrimp, raw crayfish, raw crucian carp, raw catfish, raw eel)",
+      "C": "Group 1 (raw pork, raw beef, raw lamb, cooked shrimp, cooked crayfish, cooked crab shell, cooked chicken), Group 2 (jellyfish, cooked crab meat), Group 3 (raw crab, raw shrimp, raw crayfish, raw crucian carp, raw catfish, raw eel)",
+      "D": "Group 1 (raw pork, raw beef, raw lamb, cooked shrimp, cooked crayfish, cooked crab shell, jellyfish), Group 2 (cooked chicken, cooked crab meat), Group 3 (raw crab, raw shrimp, raw crayfish, raw crucian carp, raw catfish, raw eel)"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 2029,
+    "question": "Which of the following options groups animals by color more appropriately?",
+    "options": {
+      "A": "Group 1 (crow, panda), Group 2 (killer whale, bat)",
+      "B": "Group 1 (crow, bat), Group 2 (killer whale, panda)",
+      "C": "Group 1 (crow, bat, panda), Group 2 (killer whale)",
+      "D": "Group 1 (crow, bat, killer whale), Group 2 (panda)"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 2079,
+    "question": "Which of the following options groups foods by color more appropriately?",
+    "options": {
+      "A": "Group 1 (raw pork, raw lamb, cooked crayfish), Group 2 (cooked chicken, jellyfish, cooked crab meat)",
+      "B": "Group 1 (raw pork, jellyfish, cooked crayfish), Group 2 (cooked chicken, raw lamb, cooked crab meat)",
+      "C": "Group 1 (raw pork, raw lamb, cooked crayfish, cooked chicken), Group 2 (jellyfish, cooked crab meat)",
+      "D": "Group 1 (raw pork, raw lamb, cooked crayfish, jellyfish), Group 2 (cooked chicken, cooked crab meat)"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 2193,
+    "question": "Which group of fruits and vegetables is more appropriately classified by warm and cool colors?",
+    "options": {
+      "A": "Group 1 (strawberry, dragon fruit skin, cherry, crown daisy), Group 2 (chives, green bean)",
+      "B": "Group 1 (strawberry, dragon fruit skin, cherry), Group 2 (chives, crown daisy, green bean)",
+      "C": "Group 1 (strawberry, dragon fruit skin, cherry, chives), Group 2 (crown daisy, green bean)",
+      "D": "Group 1 (strawberry, crown daisy, cherry), Group 2 (chives, dragon fruit skin, green bean)"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 2034,
+    "question": "Which of the following options groups animals by color more appropriately?",
+    "options": {
+      "A": "Group 1 (sheep, hippopotamus), Group 2 (rhinoceros, swan), Group 3 (deer, grizzly)",
+      "B": "Group 1 (sheep, swan), Group 2 (rhinoceros, hippopotamus), Group 3 (deer, grizzly)",
+      "C": "Group 1 (sheep, swan, hippopotamus), Group 2 (rhinoceros), Group 3 (deer, grizzly)",
+      "D": "Group 1 (sheep, swan, rhinoceros), Group 2 (hippopotamus), Group 3 (deer, grizzly)"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 2008,
+    "question": "Which animal's fur color is closest to achromatic color?",
+    "options": {
+      "A": "Deer",
+      "B": "Killer whale",
+      "C": "Lion",
+      "D": "Grizzly"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 2133,
+    "question": "Which group of ornamental plants is more appropriately classified by warm and cool colors?",
+    "options": {
+      "A": "Group 1 (anthurium, marigold), Group 2 (wisteria, asparagus fern)",
+      "B": "Group 1 (anthurium, asparagus fern), Group 2 (wisteria, marigold)",
+      "C": "Group 1 (anthurium, marigold, asparagus fern), Group 2 (wisteria)",
+      "D": "Group 1 (anthurium, marigold, wisteria), Group 2 (asparagus fern)"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 2094,
+    "question": "Which of these foods has the highest color saturation?",
+    "options": {
+      "A": "Raw shrimp",
+      "B": "Raw beef",
+      "C": "Raw catfish",
+      "D": "Cooked crab meat"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 2197,
+    "question": "Which group of fruits and vegetables is more appropriately classified by warm and cool colors?",
+    "options": {
+      "A": "Group 1 (cherry, mulberry, carrot), Group 2 (cilantro, rambutan shell, purple cabbage)",
+      "B": "Group 1 (cherry, rambutan shell, carrot, mulberry), Group 2 (cilantro, purple cabbage)",
+      "C": "Group 1 (cherry, rambutan shell, carrot, cilantro), Group 2 (mulberry, purple cabbage)",
+      "D": "Group 1 (cherry, rambutan shell, carrot), Group 2 (cilantro, mulberry, purple cabbage)"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 2030,
+    "question": "Which of the following options groups animals by color more appropriately?",
+    "options": {
+      "A": "Group 1 (skunk, zebra, dolphin), Group 2 (pigeon)",
+      "B": "Group 1 (skunk, dolphin), Group 2 (pigeon, zebra)",
+      "C": "Group 1 (skunk, zebra), Group 2 (pigeon, dolphin)",
+      "D": "Group 1 (skunk, zebra, pigeon), Group 2 (dolphin)"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 2065,
+    "question": "Which of the following foods undergoes the least color change when cooked?",
+    "options": {
+      "A": "Shrimp",
+      "B": "Chicken",
+      "C": "Crayfish",
+      "D": "Crab"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 2024,
+    "question": "Which sequence is more appropriate when ranking animals from high to low based on the contrast of their body surface colors?",
+    "options": {
+      "A": "Dalmatian > Giraffe > Mantis",
+      "B": "Giraffe > Dalmatian > Mantis",
+      "C": "Giraffe > Mantis > Dalmatian",
+      "D": "Mantis > Dalmatian > Giraffe"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 2095,
+    "question": "Which of these foods has the highest color saturation?",
+    "options": {
+      "A": "Raw catfish",
+      "B": "Jellyfish",
+      "C": "Cooked shrimp",
+      "D": "Raw eel"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 2140,
+    "question": "Which group of ornamental plants is more appropriately classified by warm and cool colors?",
+    "options": {
+      "A": "Group 1 (sunflower, blue star flower, rape flower, amaryllis, osmanthus, anthurium, marigold), Group 2 (willow leaves, scarlet sage, mint, lavender, lucky bamboo, wisteria, asparagus fern, pothos)",
+      "B": "Group 1 (sunflower, scarlet sage, rape flower, amaryllis, osmanthus, anthurium, marigold), Group 2 (willow leaves, blue star flower, mint, lavender, lucky bamboo, wisteria, asparagus fern, pothos)",
+      "C": "Group 1 (sunflower, scarlet sage, rape flower, amaryllis, osmanthus, anthurium, marigold, blue star flower), Group 2 (willow leaves, mint, lavender, lucky bamboo, wisteria, asparagus fern, pothos)",
+      "D": "Group 1 (sunflower, scarlet sage, rape flower, amaryllis, osmanthus, anthurium, marigold, willow leaves), Group 2 (blue star flower, mint, lavender, lucky bamboo, wisteria, asparagus fern, pothos)"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 2126,
+    "question": "Which of the following options groups the plants by color more appropriately?",
+    "options": {
+      "A": "Group 1 (scarlet sage, cotton), Group 2 (jasmine, anthurium), Group 3 (sunflower, marigold), Group 4 (blue star flower), Group 5 (lavender, wisteria), Group 6 (willow leaves, pothos)",
+      "B": "Group 1 (scarlet sage, anthurium), Group 2 (jasmine, cotton), Group 3 (sunflower, marigold), Group 4 (blue star flower), Group 5 (lavender, wisteria), Group 6 (willow leaves, pothos)",
+      "C": "Group 1 (scarlet sage, anthurium, cotton), Group 2 (jasmine), Group 3 (sunflower, marigold), Group 4 (blue star flower), Group 5 (lavender, wisteria), Group 6 (willow leaves, pothos)",
+      "D": "Group 1 (scarlet sage, anthurium, jasmine), Group 2 (cotton), Group 3 (sunflower, marigold), Group 4 (blue star flower), Group 5 (lavender, wisteria), Group 6 (willow leaves, pothos)"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 2110,
+    "question": "Which of the following options groups the plants by color more appropriately?",
+    "options": {
+      "A": "Group 1 (amaryllis, anthurium, wisteria), Group 2 (lavender)",
+      "B": "Group 1 (amaryllis, wisteria), Group 2 (lavender, anthurium)",
+      "C": "Group 1 (amaryllis, anthurium, lavender), Group 2 (wisteria)",
+      "D": "Group 1 (amaryllis, anthurium), Group 2 (lavender, wisteria)"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 2135,
+    "question": "Which group of ornamental plants is more appropriately classified by warm and cool colors?",
+    "options": {
+      "A": "Group 1 (sunflower, rape flower, osmanthus), Group 2 (asparagus fern, pothos, blue star flower)",
+      "B": "Group 1 (sunflower, pothos, osmanthus), Group 2 (asparagus fern, rape flower, blue star flower)",
+      "C": "Group 1 (sunflower, rape flower, osmanthus, pothos), Group 2 (asparagus fern, blue star flower)",
+      "D": "Group 1 (sunflower, rape flower, osmanthus, asparagus fern), Group 2 (pothos, blue star flower)"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 2173,
+    "question": "Which group of fruits is more appropriately classified by the warm and cool colors of their flesh?",
+    "options": {
+      "A": "Group 1 (blueberry), Group 2 (grape, kiwi, apricot)",
+      "B": "Group 1 (grape), Group 2 (blueberry, kiwi, apricot)",
+      "C": "Group 1 (blueberry, kiwi), Group 2 (grape, apricot)",
+      "D": "Group 1 (blueberry, grape, kiwi), Group 2 (apricot)"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 2155,
+    "question": "Which of the following options groups fruits and vegetables by color more appropriately?",
+    "options": {
+      "A": "Group 1 (black fungus, watermelon flesh), Group 2 (Red Fuji apple, strawberry)",
+      "B": "Group 1 (black fungus, strawberry), Group 2 (Red Fuji apple, watermelon flesh)",
+      "C": "Group 1 (black fungus), Group 2 (Red Fuji apple, strawberry, watermelon flesh)",
+      "D": "Group 1 (black fungus, Red Fuji apple), Group 2 (strawberry, watermelon flesh)"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 2074,
+    "question": "Which of the following options groups foods by color more appropriately?",
+    "options": {
+      "A": "Group 1 (jellyfish, cooked crayfish), Group 2 (raw beef, cooked crab meat)",
+      "B": "Group 1 (jellyfish, cooked crab meat), Group 2 (raw beef, cooked crayfish)",
+      "C": "Group 1 (jellyfish, cooked crab meat, cooked crayfish), Group 2 (raw beef)",
+      "D": "Group 1 (jellyfish, cooked crab meat, raw beef), Group 2 (cooked crayfish)"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 2023,
+    "question": "Which sequence is more appropriate when ranking animals from high to low based on the contrast of their body surface colors?",
+    "options": {
+      "A": "Russian Blue cat > Skunk > Sika deer",
+      "B": "Sika deer > Russian Blue cat > Skunk",
+      "C": "Russian Blue cat > Sika deer > Skunk",
+      "D": "Skunk > Sika deer > Russian Blue cat"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 2013,
+    "question": "Which animal's fur color is closest to achromatic color?",
+    "options": {
+      "A": "Giraffe",
+      "B": "Dolphin",
+      "C": "Lion",
+      "D": "Cheetah"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 2107,
+    "question": "Which of the following options groups the plants by color more appropriately?",
+    "options": {
+      "A": "Group 1 (scarlet sage, amaryllis), Group 2 (anthurium, blue star flower)",
+      "B": "Group 1 (anthurium, scarlet sage, amaryllis), Group 2 (blue star flower)",
+      "C": "Group 1 (anthurium, amaryllis), Group 2 (scarlet sage, blue star flower)",
+      "D": "Group 1 (anthurium, scarlet sage), Group 2 (blue star flower, amaryllis)"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 2090,
+    "question": "Which of the following foods has the greatest decrease in saturation when cooked?",
+    "options": {
+      "A": "Shrimp",
+      "B": "Lamb",
+      "C": "Abalone",
+      "D": "Crab"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 2185,
+    "question": "Which group of fruits and vegetables is more appropriately classified by warm and cool colors?",
+    "options": {
+      "A": "Group 1 (apricot, sea buckthorn, black plum skin), Group 2 (cucumber)",
+      "B": "Group 1 (apricot, sea buckthorn, cucumber), Group 2 (black plum skin)",
+      "C": "Group 1 (apricot, sea buckthorn), Group 2 (black plum skin, cucumber)",
+      "D": "Group 1 (apricot, cucumber), Group 2 (black plum skin, sea buckthorn)"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 2101,
+    "question": "Which of these foods has the lowest color saturation?",
+    "options": {
+      "A": "Cooked crayfish",
+      "B": "Cooked crab meat",
+      "C": "Raw lamb",
+      "D": "Cooked shrimp"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 2026,
+    "question": "Which sequence is more appropriate when ranking animals from high to low based on the contrast of their body surface colors?",
+    "options": {
+      "A": "Cheetah > Cow > Samoyed",
+      "B": "Samoyed > Cow > Cheetah",
+      "C": "Cow > Cheetah > Samoyed",
+      "D": "Cheetah > Samoyed > Cow"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 2162,
+    "question": "Which of the following options groups fruits and vegetables by color more appropriately?",
+    "options": {
+      "A": "Group 1 (seafood mushroom, white radish, mangosteen flesh), Group 2 (black fungus)",
+      "B": "Group 1 (white radish, mangosteen flesh), Group 2 (seafood mushroom, black fungus)",
+      "C": "Group 1 (seafood mushroom, white radish), Group 2 (black fungus, mangosteen flesh)",
+      "D": "Group 1 (seafood mushroom, mangosteen flesh), Group 2 (black fungus, white radish)"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 2039,
+    "question": "Which of the following options groups animals by color more appropriately?",
+    "options": {
+      "A": "Group 1 (West Highland White Terrier, Siberian Husky), Group 2 (Dalmatian, Bichon Frise)",
+      "B": "Group 1 (West Highland White Terrier, Bichon Frise, Dalmatian), Group 2 (Siberian Husky)",
+      "C": "Group 1 (West Highland White Terrier, Bichon Frise), Group 2 (Dalmatian, Siberian Husky)",
+      "D": "Group 1 (West Highland White Terrier, Bichon Frise, Siberian Husky), Group 2 (Dalmatian)"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 2142,
+    "question": "Which vegetable has the greatest color difference between its various parts?",
+    "options": {
+      "A": "Green bell pepper",
+      "B": "Red radish",
+      "C": "Broccoli",
+      "D": "Cucumber"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 2120,
+    "question": "Which of the following options groups the plants by color more appropriately?",
+    "options": {
+      "A": "Group 1 (lavender, wisteria, asparagus fern), Group 2 (mint), Group 3 (amaryllis, anthurium)",
+      "B": "Group 1 (lavender, asparagus fern), Group 2 (mint, wisteria), Group 3 (amaryllis, anthurium)",
+      "C": "Group 1 (lavender, wisteria), Group 2 (mint, asparagus fern), Group 3 (amaryllis, anthurium)",
+      "D": "Group 1 (lavender, wisteria, mint), Group 2 (asparagus fern), Group 3 (amaryllis, anthurium)"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 2183,
+    "question": "Which group of fruits and vegetables is more appropriately classified by warm and cool colors?",
+    "options": {
+      "A": "Group 1 (persimmon, papaya flesh, purple sweet potato), Group 2 (purple cabbage)",
+      "B": "Group 1 (persimmon, purple sweet potato), Group 2 (purple cabbage, papaya flesh)",
+      "C": "Group 1 (persimmon, papaya flesh, purple cabbage), Group 2 (purple sweet potato)",
+      "D": "Group 1 (persimmon, papaya flesh), Group 2 (purple cabbage, purple sweet potato)"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 2137,
+    "question": "Which group of ornamental plants is more appropriately classified by cool and warm colors?",
+    "options": {
+      "A": "Group 1 (rape flower, anthurium, marigold, blue star flower), Group 2 (lavender, wisteria)",
+      "B": "Group 1 (rape flower, lavender, marigold), Group 2 (blue star flower, anthurium, wisteria)",
+      "C": "Group 1 (rape flower, anthurium, marigold, lavender), Group 2 (blue star flower, wisteria)",
+      "D": "Group 1 (rape flower, anthurium, marigold), Group 2 (blue star flower, lavender, wisteria)"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 2006,
+    "question": "Which animal's fur color is closest to achromatic color?",
+    "options": {
+      "A": "Flamingo",
+      "B": "Crow",
+      "C": "Pig",
+      "D": "Deer"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 2092,
+    "question": "Which of these foods has the highest color saturation?",
+    "options": {
+      "A": "Raw chicken",
+      "B": "Raw lamb",
+      "C": "Cooked chicken",
+      "D": "Jellyfish"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 2187,
+    "question": "Which group of fruits and vegetables is more appropriately classified by warm and cool colors?",
+    "options": {
+      "A": "Group 1 (soybean, banana), Group 2 (loofah, lettuce)",
+      "B": "Group 1 (soybean, banana, loofah), Group 2 (lettuce)",
+      "C": "Group 1 (soybean, lettuce), Group 2 (loofah, banana)",
+      "D": "Group 1 (soybean, banana, lettuce), Group 2 (loofah)"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 2169,
+    "question": "Which of the following options groups fruits and vegetables by color more appropriately?",
+    "options": {
+      "A": "Group 1 (peeled Chinese yam, enoki mushroom, strawberry), Group 2 (watermelon flesh), Group 3 (durian, pomelo peel)",
+      "B": "Group 1 (peeled Chinese yam, enoki mushroom), Group 2 (strawberry, watermelon flesh), Group 3 (durian, pomelo peel)",
+      "C": "Group 1 (peeled Chinese yam, enoki mushroom, watermelon flesh), Group 2 (strawberry), Group 3 (durian, pomelo peel)",
+      "D": "Group 1 (peeled Chinese yam, watermelon flesh), Group 2 (strawberry, enoki mushroom), Group 3 (durian, pomelo peel)"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 2188,
+    "question": "Which group of fruits and vegetables is more appropriately classified by warm and cool colors?",
+    "options": {
+      "A": "Group 1 (pineapple flesh, durian, bitter gourd), Group 2 (spinach)",
+      "B": "Group 1 (pineapple flesh, durian, spinach), Group 2 (bitter gourd)",
+      "C": "Group 1 (pineapple flesh, durian), Group 2 (bitter gourd, spinach)",
+      "D": "Group 1 (pineapple flesh, spinach), Group 2 (bitter gourd, durian)"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 2161,
+    "question": "Which of the following options groups fruits and vegetables by color more appropriately?",
+    "options": {
+      "A": "Group 1 (mangosteen shell, black plum skin, shiitake mushroom), Group 2 (king trumpet mushroom)",
+      "B": "Group 1 (mangosteen shell, black plum skin), Group 2 (king trumpet mushroom, shiitake mushroom)",
+      "C": "Group 1 (mangosteen shell, shiitake mushroom), Group 2 (king trumpet mushroom, black plum skin)",
+      "D": "Group 1 (mangosteen shell, black plum skin, king trumpet mushroom), Group 2 (shiitake mushroom)"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 2118,
+    "question": "Which of the following options groups the plants by color more appropriately?",
+    "options": {
+      "A": "Group 1 (sunflower, osmanthus), Group 2 (lavender, blue star flower), Group 3 (wisteria)",
+      "B": "Group 1 (sunflower), Group 2 (blue star flower, osmanthus), Group 3 (lavender, wisteria)",
+      "C": "Group 1 (sunflower, osmanthus), Group 2 (blue star flower), Group 3 (lavender, wisteria)",
+      "D": "Group 1 (sunflower, osmanthus, wisteria), Group 2 (blue star flower), Group 3 (lavender)"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 2071,
+    "question": "Which of the following options groups foods by color more appropriately?",
+    "options": {
+      "A": "Group 1 (cooked crab shell, raw pork, raw crab), Group 2 (raw eel)",
+      "B": "Group 1 (cooked crab shell, raw pork), Group 2 (raw eel, raw crab)",
+      "C": "Group 1 (cooked crab shell, raw crab), Group 2 (raw eel, raw pork)",
+      "D": "Group 1 (cooked crab shell, raw pork, raw eel), Group 2 (raw crab)"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 2051,
+    "question": "Which group of animals is more appropriately classified by warm and cool colors?",
+    "options": {
+      "A": "Group 1 (grizzly, Golden Retriever, katydid), Group 2 (cabbage worm)",
+      "B": "Group 1 (grizzly, Golden Retriever), Group 2 (cabbage worm, katydid)",
+      "C": "Group 1 (grizzly, Golden Retriever, cabbage worm), Group 2 (katydid)",
+      "D": "Group 1 (grizzly, katydid), Group 2 (cabbage worm, Golden Retriever)"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 2082,
+    "question": "Which of the following options groups foods by color more appropriately?",
+    "options": {
+      "A": "Group 1 (raw pork, jellyfish), Group 2 (cooked chicken, cooked shrimp), Group 3 (raw crab, raw eel)",
+      "B": "Group 1 (raw pork, cooked shrimp, jellyfish), Group 2 (cooked chicken), Group 3 (raw crab, raw eel)",
+      "C": "Group 1 (raw pork, cooked shrimp, cooked chicken), Group 2 (jellyfish), Group 3 (raw crab, raw eel)",
+      "D": "Group 1 (raw pork, cooked shrimp), Group 2 (cooked chicken, jellyfish), Group 3 (raw crab, raw eel)"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 2171,
+    "question": "Which of the following options groups fruits and vegetables by color more appropriately?",
+    "options": {
+      "A": "Group 1 (black fungus), Group 2 (lettuce, spinach, pear flesh), Group 3 (rambutan flesh)",
+      "B": "Group 1 (black fungus, lettuce), Group 2 (spinach), Group 3 (rambutan flesh, pear flesh)",
+      "C": "Group 1 (black fungus, spinach), Group 2 (lettuce), Group 3 (rambutan flesh, pear flesh)",
+      "D": "Group 1 (black fungus), Group 2 (lettuce, spinach), Group 3 (rambutan flesh, pear flesh)"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 2190,
+    "question": "Which group of fruits and vegetables is more appropriately classified by warm and cool colors?",
+    "options": {
+      "A": "Group 1 (red chili pepper, Red Fuji apple, watermelon flesh), Group 2 (spinach, broccoli, chives)",
+      "B": "Group 1 (red chili pepper, Red Fuji apple, watermelon flesh, spinach), Group 2 (broccoli, chives)",
+      "C": "Group 1 (red chili pepper, broccoli, watermelon flesh), Group 2 (spinach, Red Fuji apple, chives)",
+      "D": "Group 1 (red chili pepper, Red Fuji apple, watermelon flesh, broccoli), Group 2 (spinach, chives)"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 2144,
+    "question": "Which of the following groupings is the most appropriate when categorizing these vegetables by color: tomato, carrot, broccoli, purple cabbage, white radish, eggplant?",
+    "options": {
+      "A": "Group 1 (tomato, purple cabbage, eggplant), Group 2 (carrot), Group 3 (broccoli, white radish)",
+      "B": "Group 1 (tomato), Group 2 (carrot), Group 3 (broccoli), Group 4 (purple cabbage, eggplant), Group 5 (white radish)",
+      "C": "Group 1 (purple cabbage, eggplant), Group 3 (broccoli, white radish, carrot), Group 4 (tomato)",
+      "D": "Group 1 (tomato), Group 2 (carrot), Group 3 (broccoli, white radish), Group 4 (purple cabbage, eggplant)"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 2073,
+    "question": "Which of the following options groups foods by color more appropriately?",
+    "options": {
+      "A": "Group 1 (cooked chicken, jellyfish, raw crucian carp), Group 2 (raw crab)",
+      "B": "Group 1 (cooked chicken, jellyfish), Group 2 (raw crab, raw crucian carp)",
+      "C": "Group 1 (cooked chicken, jellyfish, raw crab), Group 2 (raw crucian carp)",
+      "D": "Group 1 (cooked chicken, raw crucian carp), Group 2 (raw crab, jellyfish)"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 2111,
+    "question": "Which of the following options groups the plants by color more appropriately?",
+    "options": {
+      "A": "Group 1 (pear blossom, cotton, asparagus fern), Group 2 (lucky bamboo)",
+      "B": "Group 1 (pear blossom, cotton, lucky bamboo), Group 2 (asparagus fern)",
+      "C": "Group 1 (pear blossom, asparagus fern), Group 2 (lucky bamboo, cotton)",
+      "D": "Group 1 (pear blossom, cotton), Group 2 (lucky bamboo, asparagus fern)"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 2150,
+    "question": "Which of the following options groups fruits and vegetables by color more appropriately?",
+    "options": {
+      "A": "Group 1 (bitter gourd, lettuce), Group 2 (corn, potato)",
+      "B": "Group 1 (bitter gourd, lettuce, corn), Group 2 (potato)",
+      "C": "Group 1 (bitter gourd, lettuce, potato), Group 2 (corn)",
+      "D": "Group 1 (bitter gourd, potato), Group 2 (corn, lettuce)"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 2143,
+    "question": "Which vegetable has the greatest color difference between its various parts?",
+    "options": {
+      "A": "Green bell pepper",
+      "B": "Broccoli",
+      "C": "Cucumber",
+      "D": "Onion"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 2103,
+    "question": "Which of the following options groups the plants by color more appropriately?",
+    "options": {
+      "A": "Group 1 (jasmine, gardenia, rape flower), Group 2 (sunflower)",
+      "B": "Group 1 (jasmine, gardenia), Group 2 (sunflower, rape flower)",
+      "C": "Group 1 (jasmine, gardenia, sunflower), Group 2 (rape flower)",
+      "D": "Group 1 (jasmine, rape flower), Group 2 (sunflower, gardenia)"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 2168,
+    "question": "Which of the following options groups fruits and vegetables by color more appropriately?",
+    "options": {
+      "A": "Group 1 (purple sweet potato, black plum skin), Group 2 (black fungus, cilantro, watermelon rind)",
+      "B": "Group 1 (purple sweet potato), Group 2 (black fungus, black plum skin), Group 3 (cilantro, watermelon rind)",
+      "C": "Group 1 (purple sweet potato, black plum skin), Group 2 (black fungus, watermelon rind), Group 3 (cilantro)",
+      "D": "Group 1 (purple sweet potato, black plum skin), Group 2 (black fungus), Group 3 (cilantro, watermelon rind)"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 2014,
+    "question": "Which animal's fur color is closest to achromatic color?",
+    "options": {
+      "A": "Deer",
+      "B": "Shark",
+      "C": "Giraffe",
+      "D": "Pig"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 2164,
+    "question": "Which of the following options groups fruits and vegetables by color more appropriately?",
+    "options": {
+      "A": "Group 1 (Red Fuji apple, pineapple flesh), Group 2 (banana, dragon fruit skin), Group 3 (king trumpet mushroom, shiitake mushroom)",
+      "B": "Group 1 (Red Fuji apple, dragon fruit skin, pineapple flesh), Group 2 (banana), Group 3 (king trumpet mushroom, shiitake mushroom)",
+      "C": "Group 1 (Red Fuji apple, dragon fruit skin), Group 2 (banana, pineapple flesh), Group 3 (king trumpet mushroom, shiitake mushroom)",
+      "D": "Group 1 (Red Fuji apple, dragon fruit skin, banana), Group 2 (pineapple flesh), Group 3 (king trumpet mushroom, shiitake mushroom)"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 2050,
+    "question": "Which group of animals is more appropriately classified by warm and cool colors?",
+    "options": {
+      "A": "Group 1 (lion, deer), Group 2 (mantis, frog)",
+      "B": "Group 1 (lion, deer, mantis), Group 2 (frog)",
+      "C": "Group 1 (lion, frog), Group 2 (mantis, deer)",
+      "D": "Group 1 (lion, deer, frog), Group 2 (mantis)"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 2069,
+    "question": "Which of the following options groups foods by color more appropriately?",
+    "options": {
+      "A": "Group 1 (cooked shrimp, raw catfish), Group 2 (raw crucian carp, cooked crayfish)",
+      "B": "Group 1 (cooked shrimp, cooked crayfish, raw crucian carp), Group 2 (raw catfish)",
+      "C": "Group 1 (cooked shrimp, cooked crayfish), Group 2 (raw crucian carp, raw catfish)",
+      "D": "Group 1 (cooked shrimp, cooked crayfish, raw catfish), Group 2 (raw crucian carp)"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 2156,
+    "question": "Which of the following options groups fruits and vegetables by color more appropriately?",
+    "options": {
+      "A": "Group 1 (green bean, cilantro, white radish), Group 2 (seafood mushroom)",
+      "B": "Group 1 (green bean, seafood mushroom), Group 2 (cilantro, white radish)",
+      "C": "Group 1 (green bean, cilantro), Group 2 (seafood mushroom, white radish)",
+      "D": "Group 1 (green bean, cilantro, seafood mushroom), Group 2 (white radish)"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 2068,
+    "question": "Which of the following options groups foods by color more appropriately?",
+    "options": {
+      "A": "Group 1 (raw lamb, cooked shrimp, raw crucian carp), Group 2 (raw crayfish)",
+      "B": "Group 1 (raw lamb, raw crucian carp), Group 2 (raw crayfish, cooked shrimp)",
+      "C": "Group 1 (raw lamb, cooked shrimp), Group 2 (raw crayfish, raw crucian carp)",
+      "D": "Group 1 (raw lamb, cooked shrimp, raw crayfish), Group 2 (raw crucian carp)"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 2174,
+    "question": "Which group of fruits is more appropriately classified by the warm and cool colors of their flesh?",
+    "options": {
+      "A": "Group 1 (green grape, dragon fruit), Group 2 (cherry, mango)",
+      "B": "Group 1 (green grape, mango), Group 2 (cherry, dragon fruit)",
+      "C": "Group 1 (cherry), Group 2 (green grape, dragon fruit, mango)",
+      "D": "Group 1 (green grape), Group 2 (cherry, dragon fruit, mango)"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 2058,
+    "question": "Which group of animals is more appropriately classified by warm and cool colors?",
+    "options": {
+      "A": "Group 1 (cheetah, katydid, camel), Group 2 (cabbage worm, Golden Retriever, frog)",
+      "B": "Group 1 (cheetah, Golden Retriever, camel), Group 2 (cabbage worm, katydid, frog)",
+      "C": "Group 1 (cheetah, Golden Retriever, camel, cabbage worm), Group 2 (katydid, frog)",
+      "D": "Group 1 (cheetah, Golden Retriever, camel, katydid), Group 2 (cabbage worm, frog)"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 2077,
+    "question": "Which of the following options groups foods by color more appropriately?",
+    "options": {
+      "A": "Group 1 (cooked crab meat, cooked chicken, raw crayfish), Group 2 (raw eel)",
+      "B": "Group 1 (cooked crab meat, raw eel), Group 2 (raw crayfish, cooked chicken)",
+      "C": "Group 1 (cooked crab meat, cooked chicken), Group 2 (raw crayfish, raw eel)",
+      "D": "Group 1 (cooked crab meat, cooked chicken, raw eel), Group 2 (raw crayfish)"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 2194,
+    "question": "Which group of fruits and vegetables is more appropriately classified by warm and cool colors?",
+    "options": {
+      "A": "Group 1 (watermelon flesh, green bean, cranberry), Group 2 (lettuce, hawthorn, cilantro)",
+      "B": "Group 1 (watermelon flesh, hawthorn, cranberry), Group 2 (lettuce, green bean, cilantro)",
+      "C": "Group 1 (watermelon flesh, hawthorn, cranberry, lettuce), Group 2 (green bean, cilantro)",
+      "D": "Group 1 (watermelon flesh, hawthorn, cranberry, green bean), Group 2 (lettuce, cilantro)"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 2087,
+    "question": "Which of the following options groups foods by color more appropriately?",
+    "options": {
+      "A": "Group 1 (raw lamb, cooked crab shell, cooked crab meat), Group 2 (jellyfish), Group 3 (raw shrimp, raw catfish)",
+      "B": "Group 1 (raw lamb, cooked crab shell, jellyfish), Group 2 (cooked crab meat), Group 3 (raw shrimp, raw catfish)",
+      "C": "Group 1 (raw lamb, cooked crab shell), Group 2 (jellyfish, cooked crab meat), Group 3 (raw shrimp, raw catfish)",
+      "D": "Group 1 (raw lamb, cooked crab meat), Group 2 (jellyfish, cooked crab shell), Group 3 (raw shrimp, raw catfish)"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 2153,
+    "question": "Which of the following options groups fruits and vegetables by color more appropriately?",
+    "options": {
+      "A": "Group 1 (peeled Chinese yam, cauliflower, king oyster mushroom), Group 2 (king trumpet mushroom)",
+      "B": "Group 1 (peeled Chinese yam, king trumpet mushroom), Group 2 (king oyster mushroom, cauliflower)",
+      "C": "Group 1 (peeled Chinese yam, cauliflower), Group 2 (king oyster mushroom, king trumpet mushroom)",
+      "D": "Group 1 (peeled Chinese yam, cauliflower, king trumpet mushroom), Group 2 (king oyster mushroom)"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 2152,
+    "question": "Which of the following options groups fruits and vegetables by color more appropriately?",
+    "options": {
+      "A": "Group 1 (purple sweet potato, eggplant), Group 2 (garlic, peeled water bamboo)",
+      "B": "Group 1 (purple sweet potato, peeled water bamboo), Group 2 (garlic, eggplant)",
+      "C": "Group 1 (purple sweet potato, eggplant, garlic), Group 2 (peeled water bamboo)",
+      "D": "Group 1 (purple sweet potato, eggplant, peeled water bamboo), Group 2 (garlic)"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 2176,
+    "question": "Which group of fruits and vegetables is more appropriately classified by warm and cool colors?",
+    "options": {
+      "A": "Group 1 (red chili pepper, tomato, loofah), Group 2 (cucumber)",
+      "B": "Group 1 (red chili pepper, tomato), Group 2 (cucumber, loofah)",
+      "C": "Group 1 (red chili pepper, loofah), Group 2 (cucumber, tomato)",
+      "D": "Group 1 (red chili pepper, tomato, cucumber), Group 2 (loofah)"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 3022,
+    "question": "After a horizontal ray pointing left is rotated 90 degrees clockwise, which direction does it point?",
+    "options": {
+      "A": "Upward",
+      "B": "Rightward",
+      "C": "Downward",
+      "D": "Leftward"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 3025,
+    "question": "If a horizontal ray pointing left rotates 90 degrees counterclockwise around its endpoint, what is the direction of the new ray?",
+    "options": {
+      "A": "Upward",
+      "B": "Downward",
+      "C": "Leftward",
+      "D": "Rightward"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 3129,
+    "question": "If both the upper and lower bases of a trapezoid are compressed to half their original length, what is the final shape formed?",
+    "options": {
+      "A": "None of the above",
+      "B": "Parallelogram",
+      "C": "Square",
+      "D": "Trapezoid"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 3097,
+    "question": "When a square is translated along the direction of one of its diagonals, which side's direction remains unchanged?",
+    "options": {
+      "A": "The long side",
+      "B": "All sides remain unchanged",
+      "C": "The direction of all sides changes",
+      "D": "The short side"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 3098,
+    "question": "When a rhombus is translated along the direction of its longer diagonal, which side's direction remains unchanged?",
+    "options": {
+      "A": "The direction of all sides changes",
+      "B": "All sides remain unchanged",
+      "C": "The shorter sides",
+      "D": "The longer sides"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 3135,
+    "question": "Stretch the two short sides of a rectangle in the same direction to 2.5 times their original length, leaving the two long sides unchanged. Is the new shape still a rectangle?",
+    "options": {
+      "A": "No",
+      "B": "Yes",
+      "C": "Not necessarily",
+      "D": "Insufficient information to determine"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 3016,
+    "question": "When an oblique line segment is translated upward and then to the right, what shape is formed when it is connected to the original line segment?",
+    "options": {
+      "A": "Trapezoid",
+      "B": "Rhombus",
+      "C": "Parallelogram",
+      "D": "Circle"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 3125,
+    "question": "When an isosceles trapezoid is rotated along its central axis, what fraction of the original shape's area overlaps with the rotated shape?",
+    "options": {
+      "A": "1/4",
+      "B": "No overlap",
+      "C": "All of it",
+      "D": "1/2"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 3183,
+    "question": "When a circle is translated upward by a distance of three radii, what is the positional relationship between the translated circle and the original circle?",
+    "options": {
+      "A": "Internally tangent",
+      "B": "Separate",
+      "C": "Intersecting",
+      "D": "Externally tangent"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 3132,
+    "question": "If the two long sides of a rectangle are stretched in the same direction to twice their original length, is the new shape still a rectangle?",
+    "options": {
+      "A": "Yes",
+      "B": "Insufficient information to determine",
+      "C": "Not necessarily",
+      "D": "No"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 3111,
+    "question": "When a rectangle is rotated 45 degrees along its diagonal, what shape does the rotated figure become?",
+    "options": {
+      "A": "Rectangle",
+      "B": "Rhombus",
+      "C": "Irregular shape",
+      "D": "Triangle"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 3047,
+    "question": "There is a right-angled triangle on the desktop with its right angle at the top left corner. If it is rotated 180 degrees counterclockwise around the right-angled vertex, does the direction of the original hypotenuse change?",
+    "options": {
+      "A": "Changed",
+      "B": "No change",
+      "C": "Not necessarily",
+      "D": "Insufficient information to determine"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 3162,
+    "question": "If a horizontally placed rectangle is missing its right side, which direction does the opening face?",
+    "options": {
+      "A": "Down",
+      "B": "Up",
+      "C": "Right",
+      "D": "Left"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 3155,
+    "question": "How many trapezoids are formed when a parallelogram is cut by a line connecting the midpoints of adjacent sides?",
+    "options": {
+      "A": "None of the above",
+      "B": "1",
+      "C": "0",
+      "D": "2"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 3037,
+    "question": "If the left and right parts of a horizontal line segment are each stretched outward to three times their original length, in which direction will the midpoint of the entire line segment move?",
+    "options": {
+      "A": "No change",
+      "B": "Right",
+      "C": "Left",
+      "D": "Uncertain"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 3026,
+    "question": "When a ray rotates 270° clockwise around its endpoint, what is its relationship with the original ray?",
+    "options": {
+      "A": "Coincident",
+      "B": "Parallel",
+      "C": "Perpendicular",
+      "D": "Other"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 3164,
+    "question": "When a rectangle is cut along a diagonal, which of the two resulting triangles has a longer perimeter?",
+    "options": {
+      "A": "The triangle on the left",
+      "B": "They are equal",
+      "C": "Insufficient information to determine",
+      "D": "The triangle on the right"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 3134,
+    "question": "Stretch the two long sides of a rectangle in the same direction to 1.5 times the original length, and then stretch the two short sides in the same direction to 1.5 times the original length, and the new figure is still rectangular?",
+    "options": {
+      "A": "Not necessarily",
+      "B": "No",
+      "C": "Yes",
+      "D": "Insufficient information to determine"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 3014,
+    "question": "When a vertical line segment is translated horizontally to the left by a distance equal to its length, and then connected to the original line segment, what shape is formed?",
+    "options": {
+      "A": "Triangle",
+      "B": "Circle",
+      "C": "Square",
+      "D": "Trapezoid"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 3048,
+    "question": "There is a right-angled triangle on the desktop with its right angle at the top left corner. If it is rotated 90 degrees counterclockwise around the right-angled vertex, does the direction of the original hypotenuse change?",
+    "options": {
+      "A": "Unchanged",
+      "B": "Changed",
+      "C": "Not necessarily",
+      "D": "Insufficient information to determine"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 3119,
+    "question": "If a rectangle has long sides on the top and bottom, and short sides on the left and right, and it is flipped around its left short side, where is the original bottom edge now positioned?",
+    "options": {
+      "A": "Bottom",
+      "B": "Top",
+      "C": "Right",
+      "D": "Left"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 3032,
+    "question": "When a vertical line segment is compressed upward to half its original length, where is the midpoint of the new line segment relative to the midpoint of the original line segment?",
+    "options": {
+      "A": "Below",
+      "B": "No change",
+      "C": "Above",
+      "D": "Not certain"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 3179,
+    "question": "If you cut a regular hexagon along its longest diagonal, what two new shapes do you get?",
+    "options": {
+      "A": "Square",
+      "B": "Triangle",
+      "C": "Trapezoid",
+      "D": "Rhombus"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 3050,
+    "question": "There is a right-angled triangle on the desktop with its right angle at the top left. If it is rotated 90 degrees counterclockwise around the right-angled vertex, in which direction will the angle between the two perpendicular sides point?",
+    "options": {
+      "A": "Lower left",
+      "B": "Upper left",
+      "C": "Upper right",
+      "D": "Lower right"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 3065,
+    "question": "If an equilateral triangle is rotated 60 degrees counterclockwise, where is the vertex that was directly above it?",
+    "options": {
+      "A": "Lower right",
+      "B": "Upper right",
+      "C": "Upper left",
+      "D": "Lower left"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 3141,
+    "question": "When a rectangle is folded so that its left and right edges coincide, what shape is formed?",
+    "options": {
+      "A": "Square",
+      "B": "Isosceles triangle",
+      "C": "Rectangle",
+      "D": "Rhombus"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 3086,
+    "question": "If an isosceles right triangle is folded along the line segment from the right-angled vertex to the midpoint of the hypotenuse, what is the ratio of the area of the newly formed triangle to the area of the original triangle?",
+    "options": {
+      "A": "√3/3",
+      "B": "1/3",
+      "C": "1/2",
+      "D": "√2/2"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 3091,
+    "question": "If an equilateral triangle is cut along the line from the midpoint of one side to the diagonal vertex, what shape are the two triangles produced?",
+    "options": {
+      "A": "Right triangles",
+      "B": "Isosceles triangles",
+      "C": "Sectors",
+      "D": "Equilateral triangles"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 3158,
+    "question": "If a parallelogram is cut along a line connecting the midpoints of one pair of opposite sides, are the two resulting new shapes parallelograms?",
+    "options": {
+      "A": "No",
+      "B": "Insufficient information to determine",
+      "C": "Not necessarily",
+      "D": "Yes"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 3137,
+    "question": "If two opposite sides of a square are stretched to twice their original length, is the new shape still a square?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "No",
+      "C": "Not necessarily",
+      "D": "Yes"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 3175,
+    "question": "When folding a regular octagon so that opposite sides coincide, what shape is formed?",
+    "options": {
+      "A": "Square",
+      "B": "Pentagon",
+      "C": "Parallelogram",
+      "D": "Rectangle"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 3172,
+    "question": "What shape can be formed by joining two congruent right-angled trapezoids along their hypotenuses?",
+    "options": {
+      "A": "Isosceles trapezoid",
+      "B": "Rectangle",
+      "C": "None of the above",
+      "D": "Parallelogram"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 3011,
+    "question": "What shape is formed when an oblique line segment is translated to the left for a certain distance and then connected to the original line segment?",
+    "options": {
+      "A": "Parallelogram",
+      "B": "Trapezoid",
+      "C": "Circle",
+      "D": "Rhombus"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 3154,
+    "question": "How many trapezoids are formed when a square is cut by a line connecting the midpoints of two adjacent sides?",
+    "options": {
+      "A": "2",
+      "B": "1",
+      "C": "0",
+      "D": "None of the above"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 3055,
+    "question": "There is a right-angled triangle on the desktop, with the right angle vertex in the upper right corner. If it is rotated 90 degrees clockwise around the right angle vertex, which direction will the angle between the two perpendicular sides face?",
+    "options": {
+      "A": "Upper left",
+      "B": "Lower right",
+      "C": "Lower left",
+      "D": "Upper right"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 3194,
+    "question": "What is the shape of the remaining part when the outer edge of a circle is evenly cut off?",
+    "options": {
+      "A": "Circle",
+      "B": "Ellipse",
+      "C": "Ring",
+      "D": "Sector"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 3019,
+    "question": "There is a straight arrow with its tail pointing east. If it is rotated 180 degrees clockwise around its tail, which direction will the arrow point?",
+    "options": {
+      "A": "West",
+      "B": "East",
+      "C": "North",
+      "D": "South"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 3133,
+    "question": "If the two shorter sides of a rectangle are stretched to three times their original length in the same direction, is the new shape still a rectangle?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "Yes",
+      "C": "Not necessarily",
+      "D": "No"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 3117,
+    "question": "If a rectangle has short sides on the top and bottom, and long sides on the left and right, and it is flipped around its right long side, where is the original top side now positioned?",
+    "options": {
+      "A": "Bottom",
+      "B": "Top",
+      "C": "Right",
+      "D": "Left"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 3002,
+    "question": "When a line segment is translated along a direction that forms a 50-degree angle with it, how many intersections do the translated segments have with the original segments?",
+    "options": {
+      "A": "2",
+      "B": "1",
+      "C": "0",
+      "D": "Countless"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 3035,
+    "question": "If the left half of a horizontal line segment is stretched to the left to four times its original length, in which direction will the midpoint of the entire line segment move?",
+    "options": {
+      "A": "Right",
+      "B": "No change",
+      "C": "Left",
+      "D": "Not certain"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 3082,
+    "question": "What is the shape of an isosceles triangle folded in half along the vertex bisector?",
+    "options": {
+      "A": "Sector",
+      "B": "Right triangle",
+      "C": "Isosceles triangle",
+      "D": "Equilateral triangle"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 3075,
+    "question": "When an isosceles right triangle is flipped along its hypotenuse, what fraction of the original triangle's area overlaps with the flipped triangle?",
+    "options": {
+      "A": "1/3",
+      "B": "1/2",
+      "C": "Completely overlaps",
+      "D": "No overlap"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 3080,
+    "question": "What is the new graph of an isosceles triangle folded along the midline on the base?",
+    "options": {
+      "A": "Isosceles triangle",
+      "B": "Right triangle",
+      "C": "Sector",
+      "D": "Equilateral triangle"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 3021,
+    "question": "After a horizontal ray pointing to the right rotates 270 degrees counterclockwise, which direction does it point?",
+    "options": {
+      "A": "Rightward",
+      "B": "Upward",
+      "C": "Leftward",
+      "D": "Downward"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 3067,
+    "question": "If you fold an equilateral triangle paper along a line connecting one vertex to the midpoint of its opposite side, what shape will the folded paper form?",
+    "options": {
+      "A": "Rectangle",
+      "B": "Right-angled trapezoid",
+      "C": "Right-angled triangle",
+      "D": "Equilateral triangle"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 3003,
+    "question": "A horizontal line segment is translated along a direction that forms a 30-degree angle with it. How many times does it intersect with the original line during the translation process?",
+    "options": {
+      "A": "Not certain",
+      "B": "1",
+      "C": "0",
+      "D": "Infinite times"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 3165,
+    "question": "If a rhombus is cut along one of its diagonals, will the perimeters of the two resulting triangles be equal?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "Not equal",
+      "C": "Equal",
+      "D": "Not necessarily"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 3005,
+    "question": "When a slanted line segment is translated vertically, how many times does it intersect with the original line segment during the translation process?",
+    "options": {
+      "A": "Not certain",
+      "B": "Infinite times",
+      "C": "1",
+      "D": "0"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 3152,
+    "question": "How many small trapezoids are formed when a rhombus is cut by a line perpendicular to its long diagonal?",
+    "options": {
+      "A": "None of the above",
+      "B": "2",
+      "C": "0",
+      "D": "1"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 3027,
+    "question": "When a straight line rotates 45° clockwise around a point on it, what is its positional relationship with the original line?",
+    "options": {
+      "A": "Intersecting",
+      "B": "Parallel",
+      "C": "Coincident",
+      "D": "Perpendicular"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 3198,
+    "question": "If a circle is placed inside a square, and then a triangle is placed inside this circle, which is larger: the square or the triangle?",
+    "options": {
+      "A": "The triangle",
+      "B": "Insufficient information to determine",
+      "C": "It depends",
+      "D": "The square"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 3150,
+    "question": "If a rectangular piece of paper is folded along one diagonal, unfolded, then folded along the other diagonal and unfolded again, what is the relationship between the two crease lines?",
+    "options": {
+      "A": "Parallel",
+      "B": "Not necessarily determined",
+      "C": "Insufficient information to determine",
+      "D": "Perpendicular"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 3166,
+    "question": "If a rectangle is cut along a line connecting the midpoints of one pair of opposite sides, are the perimeters of the two resulting rectangles equal?",
+    "options": {
+      "A": "Equal",
+      "B": "Not necessarily",
+      "C": "Not equal",
+      "D": "Insufficient information to determine"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 3161,
+    "question": "If a horizontally placed square is missing its left side, which direction does the opening face?",
+    "options": {
+      "A": "Up",
+      "B": "Down",
+      "C": "Right",
+      "D": "Left"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 3184,
+    "question": "Suppose you have a circular piece of paper. You fold it once along a line passing through the center, then without unfolding, you fold it again along a line passing through the center perpendicular to the first fold line. How many crease lines will you see when you unfold it?",
+    "options": {
+      "A": "Zero",
+      "B": "Four",
+      "C": "One",
+      "D": "Two"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 3045,
+    "question": "When a line segment is folded to form two sides of a square, what is the relationship between the length of each side and the original line segment?",
+    "options": {
+      "A": "Each side's length is 1/3 of the original line segment",
+      "B": "Each side's length is 1/2 of the original line segment",
+      "C": "Each side's length is √2/2 of the original line segment",
+      "D": "Each side's length is 1/4 of the original line segment"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 3090,
+    "question": "When an equilateral triangle is folded along one of its angle bisectors, what is the ratio of the overlapping area to the original area?",
+    "options": {
+      "A": "1/2",
+      "B": "√3/3",
+      "C": "1/3",
+      "D": "√2/2"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 3031,
+    "question": "If both the left and right parts of a horizontal line segment are compressed towards the center by half, in which direction will the midpoint of the entire line segment move?",
+    "options": {
+      "A": "Left",
+      "B": "No change",
+      "C": "Uncertain",
+      "D": "Right"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 3033,
+    "question": "When a ray extending from the bottom left to the top right is compressed horizontally, how will the direction of the new ray change relative to the original ray?",
+    "options": {
+      "A": "Not certain",
+      "B": "More horizontal",
+      "C": "More vertical",
+      "D": "No change"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 3116,
+    "question": "After an isosceles trapezoid is rotated 180 degrees clockwise around the midpoint of the upper base, where is the original lower base now?",
+    "options": {
+      "A": "Does not coincide with any side",
+      "B": "At the position of the original lower base",
+      "C": "At the position of the original legs",
+      "D": "At the position of the original upper base"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 3083,
+    "question": "What shape do you get when you fold an isosceles triangle along its axis of symmetry?",
+    "options": {
+      "A": "Equilateral triangle",
+      "B": "Right triangle",
+      "C": "Isosceles triangle",
+      "D": "Sector"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 3102,
+    "question": "When a rhombus is rotated 180 degrees counterclockwise around one of its vertices, how many sides of the rotated shape coincide with the original shape?",
+    "options": {
+      "A": "0",
+      "B": "2",
+      "C": "Insufficient information to determine",
+      "D": "It depends"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 3030,
+    "question": "If the right half of a horizontal line segment is compressed to the left to one-fourth of its original length, in which direction will the midpoint of the entire line segment move?",
+    "options": {
+      "A": "Not certain",
+      "B": "Right",
+      "C": "No change",
+      "D": "Left"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 3163,
+    "question": "If a horizontally placed rectangle is missing its top edge, which direction does the opening face?",
+    "options": {
+      "A": "Down",
+      "B": "Up",
+      "C": "Right",
+      "D": "Left"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 3157,
+    "question": "What shapes are obtained when an isosceles trapezoid is cut along one of its diagonals?",
+    "options": {
+      "A": "Two congruent triangles",
+      "B": "A triangle and a quadrilateral",
+      "C": "None of the above are correct",
+      "D": "A right triangle and a parallelogram"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 3120,
+    "question": "If a rectangle has long sides on the top and bottom, and short sides on the left and right, and it is flipped around its upper long edge, where is the original right side now positioned?",
+    "options": {
+      "A": "Left side",
+      "B": "Top side",
+      "C": "Right side",
+      "D": "Bottom side"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 3106,
+    "question": "When a rectangle is rotated 180 degrees counterclockwise around the midpoint of one of its shorter sides, how many sides of the rotated shape coincide with the original shape?",
+    "options": {
+      "A": "1",
+      "B": "It depends",
+      "C": "Insufficient information to determine",
+      "D": "0"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 3130,
+    "question": "If one pair of opposite sides of a square is compressed to half of its original length, what shape is ultimately formed?",
+    "options": {
+      "A": "None of the above",
+      "B": "Rectangle",
+      "C": "Rhombus",
+      "D": "Square"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 3122,
+    "question": "When a rhombus is flipped along its long diagonal, what fraction of the original shape's area overlaps with the flipped shape?",
+    "options": {
+      "A": "1/4",
+      "B": "1/2",
+      "C": "No overlap",
+      "D": "All of it"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 3053,
+    "question": "There is a right-angled triangle on the desktop, with the right angle vertex in the upper left corner. If it is rotated 180 degrees clockwise around the right angle vertex, which direction will the angle between the two perpendicular sides face?",
+    "options": {
+      "A": "Upper left",
+      "B": "Lower left",
+      "C": "Lower right",
+      "D": "Upper right"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 3138,
+    "question": "What shape is formed when a rectangle is folded along the line connecting the midpoints of its shorter sides?",
+    "options": {
+      "A": "Rhombus",
+      "B": "Square",
+      "C": "Rectangle",
+      "D": "Trapezoid"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 3180,
+    "question": "When a circle is translated downward by a distance equal to its radius, what is the positional relationship between the translated circle and the original circle?",
+    "options": {
+      "A": "Intersecting",
+      "B": "Separate",
+      "C": "Internally tangent",
+      "D": "Externally tangent"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 3145,
+    "question": "What shape is formed when a rectangle is folded along its diagonal?",
+    "options": {
+      "A": "Rhombus",
+      "B": "Pentagon",
+      "C": "None of the above",
+      "D": "Isosceles triangle"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 3036,
+    "question": "If the right half of a horizontal line segment is stretched to the right to three times its original length, in which direction will the midpoint of the entire line segment move?",
+    "options": {
+      "A": "Right",
+      "B": "No change",
+      "C": "Not certain",
+      "D": "Left"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 3168,
+    "question": "When two congruent squares are combined by fully overlapping along one side, how many sides does the new shape have?",
+    "options": {
+      "A": "Four",
+      "B": "Two",
+      "C": "It depends",
+      "D": "Eight"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 3078,
+    "question": "What new shape is formed when an equilateral triangle is folded along one of its altitudes?",
+    "options": {
+      "A": "Sector",
+      "B": "Isosceles triangle",
+      "C": "Right triangle",
+      "D": "Equilateral triangle"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 3087,
+    "question": "If an isosceles triangle is folded along the vertex bisector line, what is the base length ratio of the newly formed triangle compared to the original triangle?",
+    "options": {
+      "A": "1/3",
+      "B": "√3/3",
+      "C": "1/2",
+      "D": "√2/2"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 3013,
+    "question": "What shape is formed when an oblique line segment is translated downward for a certain distance and then connected to the original line segment?",
+    "options": {
+      "A": "Rhombus",
+      "B": "Parallelogram",
+      "C": "Trapezoid",
+      "D": "Circle"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 3193,
+    "question": "If you fold a circular piece of paper once, then fold it again without unfolding, and finally unfold it completely, what shape will the paper be?",
+    "options": {
+      "A": "Crescent-shaped",
+      "B": "Ring-shaped",
+      "C": "Semicircular",
+      "D": "Circular"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 4155,
+    "question": "What shape does the Chinese character [口] more closely resemble after being rotated 90 degrees counterclockwise?",
+    "options": {
+      "A": "Rectangle",
+      "B": "Circle",
+      "C": "C",
+      "D": "L"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 4156,
+    "question": "What would the Chinese character [目] most likely look like after rotating 180 degrees clockwise?",
+    "options": {
+      "A": "目",
+      "B": "皿",
+      "C": "四",
+      "D": "日"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 4036,
+    "question": "After rotating the number [7] 90 degrees counterclockwise, what is the relative position of the long segment and the short segment?",
+    "options": {
+      "A": "The long segment is on the right, the short segment is on the left",
+      "B": "Insufficient information to determine",
+      "C": "The short segment is on the right, the long segment is on the left",
+      "D": "It depends"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 4077,
+    "question": "What is the position of the three horizontal lines relative to the vertical line in the uppercase letter [E]?",
+    "options": {
+      "A": "Bottom",
+      "B": "Left",
+      "C": "Top",
+      "D": "Right"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 4037,
+    "question": "After rotating the number [2] 90 degrees counterclockwise, what is the relative position of the curved line and the straight line segment?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "It depends",
+      "C": "The straight line segment is on the right, the curved line is on the left",
+      "D": "The curved line is on the right, the straight line segment is on the left"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 4112,
+    "question": "When the uppercase letter [M] is flipped upside down, which direction does the V-shape in the middle now open towards?",
+    "options": {
+      "A": "Down",
+      "B": "Right",
+      "C": "Up",
+      "D": "Left"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 4101,
+    "question": "After rotating the lowercase letter [d] 90 degrees clockwise, where is the vertical line now?",
+    "options": {
+      "A": "Left",
+      "B": "Right",
+      "C": "Bottom",
+      "D": "Top"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 4152,
+    "question": "If the [口] in the center of the Chinese character [回] is moved to the right outside the border, what is the relationship between the two [口] characters?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "No relationship",
+      "C": "Stacked vertically",
+      "D": "Side by side horizontally"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 4086,
+    "question": "After moving the letter [n] upward vertically, which direction does its opening face?",
+    "options": {
+      "A": "Up",
+      "B": "Left",
+      "C": "Down",
+      "D": "Right"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 4078,
+    "question": "What is the position of the two diagonal lines relative to the vertical line in the uppercase letter [K]?",
+    "options": {
+      "A": "Left",
+      "B": "Bottom",
+      "C": "Top",
+      "D": "Right"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 4052,
+    "question": "If the number [8] is vertically cut in half from the middle, how many semicircular line segments are there on the left side?",
+    "options": {
+      "A": "1",
+      "B": "4",
+      "C": "0",
+      "D": "2"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 4131,
+    "question": "When two uppercase letters [E] are vertically connected, which direction does the opening of the resulting shape face?",
+    "options": {
+      "A": "Down",
+      "B": "Left",
+      "C": "Right",
+      "D": "Up"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 4079,
+    "question": "How many angles close to right angles does the letter [L] contain after being translated to the right?",
+    "options": {
+      "A": "3",
+      "B": "0",
+      "C": "2",
+      "D": "1"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 4046,
+    "question": "When the number [8] is flipped horizontally, do the lines intersect?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "Yes",
+      "C": "Not necessarily",
+      "D": "No"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 4186,
+    "question": "Which stroke should be removed from the Chinese character [田] to make it most resemble the Chinese character [日]?",
+    "options": {
+      "A": "The rightmost vertical stroke",
+      "B": "The leftmost vertical stroke",
+      "C": "The horizontal stroke",
+      "D": "The vertical stroke in the middle"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 4081,
+    "question": "After the letter [W] is translated downward, how many sharp angles are there in the new figure?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "0"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 4083,
+    "question": "What shape does the letter [p] most resemble when moved to the left?",
+    "options": {
+      "A": "6",
+      "B": "b",
+      "C": "p",
+      "D": "9"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 4016,
+    "question": "If you move the arc above the number [3] to below the lower arc, what does it most resemble?",
+    "options": {
+      "A": "0",
+      "B": "3",
+      "C": "9",
+      "D": "8"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 4030,
+    "question": "What shape does the digit [8] contain after being rotated 90 degrees clockwise?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "Triangles",
+      "C": "Rectangles",
+      "D": "Circles"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 4009,
+    "question": "Which direction does the curved opening of the number [2] face?",
+    "options": {
+      "A": "Bottom right",
+      "B": "Bottom left",
+      "C": "Top right",
+      "D": "Top left"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 4047,
+    "question": "When the number [6] is flipped horizontally, is the circle on the top or bottom?",
+    "options": {
+      "A": "Top",
+      "B": "Bottom",
+      "C": "Insufficient information to determine",
+      "D": "Not certain"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 4001,
+    "question": "How many triangles appear to be contained in the number [4]?",
+    "options": {
+      "A": "1",
+      "B": "0",
+      "C": "2",
+      "D": "3"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 4165,
+    "question": "After rotating the Chinese character [主] 180 degrees clockwise, where is one point of the new figure in relation to the Chinese character [王]?",
+    "options": {
+      "A": "Left",
+      "B": "Right",
+      "C": "Below",
+      "D": "Above"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 4157,
+    "question": "What is the leftmost stroke of the Chinese character [王] after rotating it 90 degrees clockwise?",
+    "options": {
+      "A": "Vertical stroke",
+      "B": "Dot",
+      "C": "Horizontal stroke",
+      "D": "No stroke"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 4043,
+    "question": "When the digit [3] is flipped horizontally, which direction does its opening face?",
+    "options": {
+      "A": "Right",
+      "B": "Down",
+      "C": "Left",
+      "D": "Up"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 4116,
+    "question": "When the lowercase letter [b] is flipped horizontally, on which side of the semicircle is the vertical line?",
+    "options": {
+      "A": "Left",
+      "B": "Not certain",
+      "C": "Insufficient information to determine",
+      "D": "Right"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 4150,
+    "question": "If the [木] on the left side of the Chinese character [林] is moved to the right side of the [木] on the right, what is the relationship between the two [木] characters?",
+    "options": {
+      "A": "Side by side horizontally",
+      "B": "Stacked vertically",
+      "C": "No relationship",
+      "D": "Insufficient information to determine"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 4048,
+    "question": "When the number [9] is flipped vertically, is the circle at the top or the bottom?",
+    "options": {
+      "A": "Top",
+      "B": "Bottom",
+      "C": "Insufficient information to determine",
+      "D": "Not certain"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 4178,
+    "question": "When the Chinese character [凸] is flipped vertically, which direction does the protrusion face?",
+    "options": {
+      "A": "Down",
+      "B": "Left",
+      "C": "Right",
+      "D": "Up"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 4195,
+    "question": "What is the most likely result when combining the Chinese characters [木] and [羊]?",
+    "options": {
+      "A": "祥",
+      "B": "柱",
+      "C": "样",
+      "D": "林"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 4198,
+    "question": "What is the most likely result when combining the Chinese characters [木] and [对]?",
+    "options": {
+      "A": "柳",
+      "B": "村",
+      "C": "树",
+      "D": "Does not exist"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 4188,
+    "question": "Which character does the Chinese character [申] most resemble when the middle horizontal stroke is removed?",
+    "options": {
+      "A": "中",
+      "B": "田",
+      "C": "日",
+      "D": "由"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 4109,
+    "question": "What is the most likely result when the lowercase letter [d] is flipped vertically?",
+    "options": {
+      "A": "d",
+      "B": "p",
+      "C": "b",
+      "D": "q"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 4051,
+    "question": "How can the digit [8] be cut to obtain the shape of the digit [3]?",
+    "options": {
+      "A": "Along the horizontal direction",
+      "B": "Along the vertical direction",
+      "C": "It's not possible to obtain",
+      "D": "Along a 45-degree diagonal direction"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 4103,
+    "question": "After rotating the letter [P] 90 degrees clockwise, where is the semicircular part in the new figure?",
+    "options": {
+      "A": "Bottom left",
+      "B": "Top right",
+      "C": "Top left",
+      "D": "Bottom right"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 4164,
+    "question": "When the Chinese character [同] is rotated 90 degrees clockwise, which direction does the opening of the new character's outline face?",
+    "options": {
+      "A": "Right",
+      "B": "Bottom",
+      "C": "Top",
+      "D": "Left"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 4098,
+    "question": "After rotating the lowercase letter [m] 90 degrees clockwise, which direction does its opening face?",
+    "options": {
+      "A": "Down",
+      "B": "Left",
+      "C": "Right",
+      "D": "Up"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 4062,
+    "question": "When digits [1] and [7] are combined and allowed to rotate, what is the most likely result?",
+    "options": {
+      "A": "4",
+      "B": "M",
+      "C": "3",
+      "D": "A"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 4130,
+    "question": "When you combine a horizontally flipped uppercase letter [D] with a regular uppercase letter [D] by aligning their vertical lines, what shape does it most resemble?",
+    "options": {
+      "A": "Sphere",
+      "B": "Oval",
+      "C": "Rectangle",
+      "D": "Diamond"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 4142,
+    "question": "Which direction does the opening of the Chinese character [厂] face?",
+    "options": {
+      "A": "Upper left",
+      "B": "Lower right",
+      "C": "Lower left",
+      "D": "Upper right"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 4061,
+    "question": "If the digit [0] is horizontally cut in half, which direction does the opening of the upper half face?",
+    "options": {
+      "A": "Up",
+      "B": "Left",
+      "C": "Right",
+      "D": "Down"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 4134,
+    "question": "How many vertical lines are there inside the Chinese character [田]?",
+    "options": {
+      "A": "3 lines",
+      "B": "2 lines",
+      "C": "4 lines",
+      "D": "1 line"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 4196,
+    "question": "What is the most likely result when combining the Chinese characters [弓] and [瓜]?",
+    "options": {
+      "A": "弧",
+      "B": "张",
+      "C": "孤",
+      "D": "Does not exist"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 4068,
+    "question": "Which letter has no enclosed area in its shape?",
+    "options": {
+      "A": "R",
+      "B": "P",
+      "C": "Q",
+      "D": "G"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 4108,
+    "question": "What is the lowercase letter [q] most likely to become when flipped horizontally?",
+    "options": {
+      "A": "d",
+      "B": "q",
+      "C": "b",
+      "D": "p"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 4127,
+    "question": "After removing the vertical line from the uppercase letter [D], which direction does the opening face?",
+    "options": {
+      "A": "Left",
+      "B": "Down",
+      "C": "Right",
+      "D": "Up"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 4149,
+    "question": "If the Chinese character [冈] is shifted upward, which direction does the opening of its outer frame face?",
+    "options": {
+      "A": "Left",
+      "B": "Up",
+      "C": "Right",
+      "D": "Down"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 4096,
+    "question": "What is the uppercase letter [Z] most likely to become after rotating 90 degrees clockwise?",
+    "options": {
+      "A": "Z",
+      "B": "N",
+      "C": "W",
+      "D": "S"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 4176,
+    "question": "What does the Chinese character [区] most resemble when flipped upside down?",
+    "options": {
+      "A": "凶",
+      "B": "冈",
+      "C": "区",
+      "D": "叵"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 4137,
+    "question": "How many rectangle-like shapes are there in the Chinese character [同]?",
+    "options": {
+      "A": "2",
+      "B": "0",
+      "C": "1",
+      "D": "3"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 4102,
+    "question": "After rotating the letter [A] 90 degrees clockwise, where is the triangle in the new figure?",
+    "options": {
+      "A": "Bottom",
+      "B": "Right",
+      "C": "Top",
+      "D": "Left"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 4024,
+    "question": "How many circular-like shapes are contained in the number [8] after it is rotated 90 degrees clockwise?",
+    "options": {
+      "A": "0",
+      "B": "Insufficient information to determine",
+      "C": "1",
+      "D": "2"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 4117,
+    "question": "What is the uppercase letter [B] most likely to become after removing the arc in the lower right corner?",
+    "options": {
+      "A": "b",
+      "B": "P",
+      "C": "d",
+      "D": "D"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 4140,
+    "question": "What basic geometric shape can be found within the Chinese character [五]?",
+    "options": {
+      "A": "Parallelogram",
+      "B": "Circle",
+      "C": "Rectangle",
+      "D": "Triangle"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 4106,
+    "question": "After horizontally flipping the letter [Z], how many acute angles are contained in the new shape?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "4"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 4050,
+    "question": "When the number [7] is flipped vertically, is the horizontal line at the top or bottom?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "Top",
+      "C": "Bottom",
+      "D": "Not certain"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 4190,
+    "question": "If you remove the right side [人] from the Chinese character [从], which direction does the opening of the new shape face?",
+    "options": {
+      "A": "Up",
+      "B": "Down",
+      "C": "Left",
+      "D": "Right"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 4181,
+    "question": "After horizontally flipping the Chinese character [可], what is the position of the [口] component in the new character?",
+    "options": {
+      "A": "Bottom right",
+      "B": "Bottom left",
+      "C": "Top left",
+      "D": "Top right"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 4182,
+    "question": "After flipping the Chinese character [巫] upside down, where is the top horizontal stroke in the new figure located in the original character?",
+    "options": {
+      "A": "Top",
+      "B": "Insufficient information to determine",
+      "C": "Bottom",
+      "D": "Middle"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 4064,
+    "question": "How many triangles are there in the uppercase letter [A]?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "0",
+      "D": "1"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 4104,
+    "question": "After rotating the letter [B] 90 degrees counterclockwise, on which side of the new shape are the two semicircular protrusions?",
+    "options": {
+      "A": "Left",
+      "B": "Right",
+      "C": "Bottom",
+      "D": "Top"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 4035,
+    "question": "After rotating the number [8] 90 degrees clockwise, what is the positional orientation of the two circles?",
+    "options": {
+      "A": "Lower left and upper right",
+      "B": "Upper left and lower right",
+      "C": "Connected horizontally",
+      "D": "Connected vertically"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 4173,
+    "question": "When the Chinese character [十] is flipped upside down, what does it most resemble?",
+    "options": {
+      "A": "士",
+      "B": "千",
+      "C": "干",
+      "D": "十"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 4120,
+    "question": "If a paper in the shape of the capital letter [E] is cut vertically across the three horizontal lines, into how many parts will the paper be divided?",
+    "options": {
+      "A": "8",
+      "B": "4",
+      "C": "3",
+      "D": "2"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 4090,
+    "question": "After rotating the letter [W] 45 degrees clockwise, how many acute angles are contained in the new shape?",
+    "options": {
+      "A": "1",
+      "B": "3",
+      "C": "0",
+      "D": "2"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 4012,
+    "question": "What is the typical position of the horizontal line segment in the digit [5] relative to the vertical line segment?",
+    "options": {
+      "A": "Left side",
+      "B": "Right side",
+      "C": "Not fixed",
+      "D": "Middle"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 4122,
+    "question": "After removing the horizontal line in the middle of the capital letter [A], which direction does the opening face?",
+    "options": {
+      "A": "Down",
+      "B": "Right",
+      "C": "Left",
+      "D": "Up"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 4121,
+    "question": "What is the uppercase letter [Q] most likely to become after removing the small tail in the bottom right corner?",
+    "options": {
+      "A": "Q",
+      "B": "D",
+      "C": "O",
+      "D": "G"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 4085,
+    "question": "What shape does the letter [V] most resemble when moved upward?",
+    "options": {
+      "A": "V",
+      "B": "A",
+      "C": "Y",
+      "D": "W"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 4067,
+    "question": "How many horizontal lines are there in the uppercase letter [E]?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "2",
+      "D": "0"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 4138,
+    "question": "What basic geometric shape can be found within the Chinese character [智]?",
+    "options": {
+      "A": "Circle",
+      "B": "Isosceles triangle",
+      "C": "Right-angled triangle",
+      "D": "Rectangle"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 4018,
+    "question": "If you move the arc above the number [3] to below the lower arc, which direction will the opening of the new figure face?",
+    "options": {
+      "A": "Left",
+      "B": "Up",
+      "C": "Right",
+      "D": "Down"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 4059,
+    "question": "If the number [3] is horizontally cut in half, which direction does the opening of the bottom part face?",
+    "options": {
+      "A": "Up",
+      "B": "Left",
+      "C": "Down",
+      "D": "Right"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 4029,
+    "question": "When the number [2] is rotated 90 degrees counterclockwise, does it become a shape similar to the letter [S]?",
+    "options": {
+      "A": "Yes",
+      "B": "Not necessarily",
+      "C": "No",
+      "D": "Insufficient information to determine"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 4011,
+    "question": "How do the vertical and horizontal line segments of the digit [4] typically intersect?",
+    "options": {
+      "A": "Cross shape",
+      "B": "T-shape",
+      "C": "L-shape",
+      "D": "Do not intersect"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 4148,
+    "question": "After moving the Chinese character [噩] to the right, what shape is contained in the new figure?",
+    "options": {
+      "A": "Circle",
+      "B": "Rectangle",
+      "C": "Pentagon",
+      "D": "Triangle"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 4169,
+    "question": "When the Chinese character [回] is rotated clockwise by any angle, how does the area ratio between the inner square and the outer square change?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "Decreases",
+      "C": "Increases",
+      "D": "Remains unchanged"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 4191,
+    "question": "If the top horizontal stroke of the Chinese character [日] is removed, which direction does the opening of the new shape face?",
+    "options": {
+      "A": "Right",
+      "B": "Up",
+      "C": "Down",
+      "D": "Left"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 4118,
+    "question": "What is most likely to remain after removing one diagonal line from the capital letter [X]?",
+    "options": {
+      "A": "A shape similar to the capital letter A",
+      "B": "A single diagonal line",
+      "C": "A shape similar to the capital letter X",
+      "D": "A shape similar to the capital letter V"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 4014,
+    "question": "Is the width of the digit [0] usually smaller than its height?",
+    "options": {
+      "A": "No",
+      "B": "Insufficient information to determine",
+      "C": "Yes",
+      "D": "Not necessarily"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 5151,
+    "question": "When standing on level ground and turning the head horizontally to the left, how does the distance between the nose and the left shoulder change?",
+    "options": {
+      "A": "Remains unchanged",
+      "B": "Insufficient information to determine",
+      "C": "Decreases",
+      "D": "Increases"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 5155,
+    "question": "When  standing on level ground and lowering the head, how does the position of the forehead change relative to its original position?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "Forward",
+      "C": "Remains unchanged",
+      "D": "Backward"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 5078,
+    "question": "When lying on your side facing right, which ear is farther from the bed surface, the left ear or the right ear?",
+    "options": {
+      "A": "They are equidistant",
+      "B": "Left ear",
+      "C": "Insufficient information to determine",
+      "D": "Right ear"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 5052,
+    "question": "When a person is sitting on a chair with their hands on their knees, are the elbows usually higher or lower than the knees?",
+    "options": {
+      "A": "Higher",
+      "B": "Lower",
+      "C": "Not necessarily",
+      "D": "Insufficient information to determine"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 5168,
+    "question": "When a person stands upside down on level ground, is the distance between the navel and the ground usually farther or closer than the distance between the chest and the ground?",
+    "options": {
+      "A": "The same distance",
+      "B": "Closer to",
+      "C": "Insufficient information to determine",
+      "D": "Farther from"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 5055,
+    "question": "When sitting with hands on thighs, are the wrists typically higher or lower than the knees?",
+    "options": {
+      "A": "Higher",
+      "B": "Insufficient information to determine",
+      "C": "Lower",
+      "D": "Not necessarily"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 5173,
+    "question": "When a person stands on level ground and laughs heartily, which is higher, the corners of the mouth or the corners of the eyes?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "Corners of the mouth",
+      "C": "It depends",
+      "D": "Corners of the eyes"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 5059,
+    "question": "When squatting down, compared to standing, how does the distance between the top of your head and the ceiling change?",
+    "options": {
+      "A": "Remains essentially unchanged",
+      "B": "Insufficient information to determine",
+      "C": "Decreases",
+      "D": "Increases"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 5056,
+    "question": "When sitting with hands on thighs, are the forearms usually above or below the knees?",
+    "options": {
+      "A": "Not necessarily",
+      "B": "Above",
+      "C": "Insufficient information to determine",
+      "D": "Below"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 5028,
+    "question": "When standing with hands behind the back, are the elbows higher or lower than the hip joint?",
+    "options": {
+      "A": "Higher",
+      "B": "It varies",
+      "C": "Lower",
+      "D": "At the same height"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 5148,
+    "question": "When standing on level ground and turning the head horizontally to the left, how does the distance between the right eye and the right shoulder change?",
+    "options": {
+      "A": "Increases",
+      "B": "Insufficient information to determine",
+      "C": "Remains unchanged",
+      "D": "Decreases"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 5027,
+    "question": "When standing and lifting one leg backwards with a bent knee, which is higher: the ankle or the knee of the supporting leg?",
+    "options": {
+      "A": "Knee",
+      "B": "It depends",
+      "C": "Ankle",
+      "D": "They are at the same height"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 5196,
+    "question": "When a person stands and rotates their upper body to the right, which shoulder is further back, the left or the right?",
+    "options": {
+      "A": "It depends",
+      "B": "Right shoulder",
+      "C": "Insufficient information to determine",
+      "D": "Left shoulder"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 5024,
+    "question": "When standing and bending one leg backwards, which is higher: the ankle or the knee of the raised leg?",
+    "options": {
+      "A": "Ankle",
+      "B": "It depends",
+      "C": "They are at the same height",
+      "D": "Knee"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 5046,
+    "question": "When sitting in a normal posture, viewed from the side, are the ankles typically positioned more forward or more backward compared to the hips?",
+    "options": {
+      "A": "It varies",
+      "B": "Insufficient information to determine",
+      "C": "More backward",
+      "D": "More forward"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 5048,
+    "question": "When a person sits on the ground with legs crossed, viewed from the front, are the knees typically higher or lower than the thighs?",
+    "options": {
+      "A": "Not necessarily",
+      "B": "Higher",
+      "C": "Lower",
+      "D": "Insufficient information to determine"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 5130,
+    "question": "When bending forward from a standing position, what angle do the soles of the feet usually form with the ground?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "Parallel",
+      "C": "At a 45 degree angle",
+      "D": "Perpendicular"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 5076,
+    "question": "When lying on your side facing right, which is farther from the bed surface: the tip of your nose or your left ear?",
+    "options": {
+      "A": "Left ear",
+      "B": "Tip of the nose",
+      "C": "Insufficient information to determine",
+      "D": "They are equidistant"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 5015,
+    "question": "When a person stands, which is positioned further back on the body, the buttock or the anus?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "It depends",
+      "C": "Buttock",
+      "D": "Anus"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 5103,
+    "question": "When performing sit-ups, are the knees higher or lower than the hip joint?",
+    "options": {
+      "A": "Higher",
+      "B": "Lower",
+      "C": "Insufficient information to determine",
+      "D": "Not necessarily"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 5017,
+    "question": "In a normal standing posture, when viewed from the front, are the elbows higher or lower than the waist?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "Higher",
+      "C": "Not necessarily",
+      "D": "Lower"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 5100,
+    "question": "When lying on your side facing right, which ear is higher, the left or the right?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "They are at the same level",
+      "C": "Left ear",
+      "D": "Right ear"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 5172,
+    "question": "When a person stands on level ground and laughs heartily, which is higher, the corners of the mouth or the wings of the nose?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "Corners of the mouth",
+      "C": "Wings of the nose",
+      "D": "It depends"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 5107,
+    "question": "When kneeling on both knees and kowtowing, is the tip of the nose usually closer to or farther from the ground compared to the forehead?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "Equally close",
+      "C": "Closer",
+      "D": "Farther"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 5043,
+    "question": "When viewed from the side in a normal sitting posture, are the heels typically positioned more forward or more backward than the buttocks?",
+    "options": {
+      "A": "It varies",
+      "B": "Insufficient information to determine",
+      "C": "More backward",
+      "D": "More forward"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 5111,
+    "question": "When kneeling on one knee, which direction does the sole of the non-kneeling foot face?",
+    "options": {
+      "A": "Forward",
+      "B": "Down",
+      "C": "Backward",
+      "D": "Up"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 5054,
+    "question": "When sitting with one leg crossed over the other, with the left leg resting on the right, is the right knee above or below the left ankle?",
+    "options": {
+      "A": "Below",
+      "B": "Not necessarily",
+      "C": "Above",
+      "D": "Insufficient information to determine"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 5065,
+    "question": "How does the distance between the head and shoulders change when squatting down?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "Remains essentially unchanged",
+      "C": "Increases",
+      "D": "Decreases"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 5012,
+    "question": "When a person is standing with arms naturally hanging down, from a frontal view, where do the fingertips typically point?",
+    "options": {
+      "A": "Upward",
+      "B": "Forward",
+      "C": "Backward",
+      "D": "Thighs"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 5064,
+    "question": "Compared to a standing position, how does the distance between the knees and the ground change when squatting?",
+    "options": {
+      "A": "Decreases",
+      "B": "Increases",
+      "C": "Insufficient information to determine",
+      "D": "Remains essentially unchanged"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 5163,
+    "question": "When a person stands upside down on level ground, is the distance between the chin and the ground usually closer or farther than the distance between the forehead and the ground?",
+    "options": {
+      "A": "Farther from",
+      "B": "Closer to",
+      "C": "Insufficient information to determine",
+      "D": "The same distance"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 5178,
+    "question": "At the moment of release in shot put, should the palm of the hand face forward or backward?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "Backward",
+      "C": "Not necessarily either",
+      "D": "Forward"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 5166,
+    "question": "When a person stands upside down on level ground, are the buttocks usually closer to or farther from the ceiling compared to the knees?",
+    "options": {
+      "A": "Closer to",
+      "B": "The same distance",
+      "C": "Insufficient information to determine",
+      "D": "Farther from"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 5037,
+    "question": "Compared to standing, how does the distance between the top of the head and the ground change when sitting?",
+    "options": {
+      "A": "Becomes farther",
+      "B": "Remains essentially unchanged",
+      "C": "Becomes closer",
+      "D": "Insufficient information to determine"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 5136,
+    "question": "When a person bends over to grab their feet while standing, which is higher: the chest or the back?",
+    "options": {
+      "A": "They are at the same height",
+      "B": "Back",
+      "C": "Chest",
+      "D": "Insufficient information to determine"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 5158,
+    "question": "When a person stands on level ground and lowers the head, which is lower, the nose or the chest?",
+    "options": {
+      "A": "Nose",
+      "B": "They are at the same level",
+      "C": "Chest",
+      "D": "Insufficient information to determine"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 5104,
+    "question": "When performing sit-ups, are the knees higher or lower than the hips?",
+    "options": {
+      "A": "Lower",
+      "B": "Insufficient information to determine",
+      "C": "Not necessarily",
+      "D": "Higher"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 5187,
+    "question": "When extending the lower limbs, does the distance between the knee and ankle increase or decrease?",
+    "options": {
+      "A": "Increases",
+      "B": "Decreases",
+      "C": "It depends",
+      "D": "Remains essentially unchanged"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 5051,
+    "question": "When a person sits on the ground with legs crossed, viewed from the front, are the knees typically higher or lower than the feet?",
+    "options": {
+      "A": "Not necessarily",
+      "B": "Higher",
+      "C": "Lower",
+      "D": "Insufficient information to determine"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 5003,
+    "question": "When standing on the right foot and raising the left knee to the left, which is typically farther from the ground: the raised foot or the knee of the raised leg?",
+    "options": {
+      "A": "The knee of the raised leg",
+      "B": "Insufficient information to determine",
+      "C": "They are equally distant",
+      "D": "The raised foot"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 5194,
+    "question": "When a person stands and rotates their upper body to the right, which shoulder is more forward, the left or the right?",
+    "options": {
+      "A": "Right shoulder",
+      "B": "Not necessarily",
+      "C": "Insufficient information to determine",
+      "D": "Left shoulder"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 5146,
+    "question": "When standing on level ground and turning the head horizontally to the left, how does the distance between the right ear and the right shoulder change?",
+    "options": {
+      "A": "Remains unchanged",
+      "B": "Increases",
+      "C": "Decreases",
+      "D": "Insufficient information to determine"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 5191,
+    "question": "During the whipping motion of the lower limb, what is the trend in distance change between the ankle and knee?",
+    "options": {
+      "A": "Increases",
+      "B": "Decreases then increases",
+      "C": "Decreases",
+      "D": "Remains essentially unchanged"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 5118,
+    "question": "When standing and bending forward, from the side, the shape of the thigh and lower leg most closely resembles what geometric figure?",
+    "options": {
+      "A": "Triangle",
+      "B": "Circle",
+      "C": "Right angle",
+      "D": "Line segment"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 5011,
+    "question": "When a person stands with their hands behind their back, which direction do their palms usually face?",
+    "options": {
+      "A": "Each other",
+      "B": "Forward",
+      "C": "Backward",
+      "D": "Upward"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 5192,
+    "question": "During the lower limb whipping motion, what is the trend of distance change between the knee and the hip?",
+    "options": {
+      "A": "Decreases",
+      "B": "Remains essentially unchanged",
+      "C": "Increases",
+      "D": "Decreases first, then increases"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 5002,
+    "question": "When standing on one foot and lifting the other knee forward, which is typically farther from the ground: the raised foot or the knee of the raised leg?",
+    "options": {
+      "A": "They are equally distant",
+      "B": "The raised foot",
+      "C": "Insufficient information to determine",
+      "D": "The knee of the raised leg"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 5137,
+    "question": "When standing on level ground and bending backwards until the palms touch the ground, which is higher, the abdomen or the back?",
+    "options": {
+      "A": "They are at the same height",
+      "B": "Abdomen",
+      "C": "Insufficient information to determine",
+      "D": "Back"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 5124,
+    "question": "When standing on level ground and bending backward until the palms touch the ground, how does the distance between the  palms and the ceiling compare to the distance when standing upright?",
+    "options": {
+      "A": "Remains essentially the same",
+      "B": "Decreases",
+      "C": "Increases",
+      "D": "Insufficient information to determine"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 5013,
+    "question": "When a person stands with arms akimbo, viewed from the front, which direction are their palms typically facing?",
+    "options": {
+      "A": "Upward",
+      "B": "Forward",
+      "C": "Backward",
+      "D": "Waist"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 5184,
+    "question": "When standing on tiptoes, is the distance from the heel to the ground greater or smaller than the distance from the toes to the ground?",
+    "options": {
+      "A": "Greater",
+      "B": "Smaller",
+      "C": "The same",
+      "D": "Not necessarily"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 5171,
+    "question": "When a person stands on level ground, are the lower gums above or below the lower teeth?",
+    "options": {
+      "A": "Above",
+      "B": "Below",
+      "C": "Insufficient information to determine",
+      "D": "Not necessarily"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 5077,
+    "question": "When lying on your side facing right, which is farther from the bed surface: the tip of your nose or your right ear?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "Right ear",
+      "C": "They are equidistant",
+      "D": "Tip of the nose"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 5108,
+    "question": "When kneeling on both knees and kowtowing, is the back usually closer to or farther from the ground compared to the neck?",
+    "options": {
+      "A": "Closer",
+      "B": "Equally close",
+      "C": "Farther",
+      "D": "Insufficient information to determine"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 5094,
+    "question": "When lying flat, viewed from the side, is the chin typically higher or lower than the collarbone?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "Lower",
+      "C": "Higher",
+      "D": "Not necessarily"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 5010,
+    "question": "When a person is standing with their arms at their sides, from a frontal view, which direction do the palms typically face?",
+    "options": {
+      "A": "Abdomen",
+      "B": "Away from the body",
+      "C": "Lower legs",
+      "D": "Thighs"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 5183,
+    "question": "At the moment of takeoff, does a diver's foot contact the diving board with the toes or the entire sole?",
+    "options": {
+      "A": "It varies",
+      "B": "Insufficient information to determine",
+      "C": "Entire sole",
+      "D": "Toes"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 5030,
+    "question": "When sitting down, compared to standing, how does the distance between the knees and toes typically change?",
+    "options": {
+      "A": "Remains essentially unchanged",
+      "B": "Becomes longer",
+      "C": "Insufficient information to determine",
+      "D": "Becomes shorter"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 5177,
+    "question": "How does the distance between the shoulders and elbows change during a chest pass in basketball?",
+    "options": {
+      "A": "Increases",
+      "B": "Remains essentially unchanged",
+      "C": "Not necessarily consistent",
+      "D": "Decreases"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 5149,
+    "question": "When standing on level ground and turning the head horizontally to the left, how does the distance between the right eye and the left shoulder change?",
+    "options": {
+      "A": "Increases",
+      "B": "Insufficient information to determine",
+      "C": "Decreases",
+      "D": "Remains unchanged"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 5120,
+    "question": "When a person stands on level ground and bends forward to grab his ankles, how does the distance between the head and the ceiling change compared to standing?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "Increases",
+      "C": "Decreases",
+      "D": "Remains essentially unchanged"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 5023,
+    "question": "When standing on tiptoes, are the toes above or below the sole of the feet?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "At the same level",
+      "C": "Above",
+      "D": "Below"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 5060,
+    "question": "When squatting down, compared to standing, how does the distance between your waist and the ceiling change?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "Remains essentially the same",
+      "C": "Increases",
+      "D": "Decreases"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 5001,
+    "question": "When standing, viewed from the side, which geometric shape does the form created by the thigh and lower leg most closely resemble?",
+    "options": {
+      "A": "Triangle",
+      "B": "Line segment",
+      "C": "Circle",
+      "D": "Right angle"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 5020,
+    "question": "When standing in a normal posture, viewed from the front, which is higher: the wrist or the waist?",
+    "options": {
+      "A": "Wrist",
+      "B": "Insufficient information to determine",
+      "C": "Waist",
+      "D": "They are at the same height"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 5161,
+    "question": "When a person stands upside down on level ground, what shape do the thighs and calves usually form when viewed from the side?",
+    "options": {
+      "A": "L shape",
+      "B": "I shape",
+      "C": "V shape",
+      "D": "Y shape"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 5189,
+    "question": "At the moment of jump, is the tip of the foot usually higher or lower than the heel?",
+    "options": {
+      "A": "Higher",
+      "B": "Lower",
+      "C": "It depends",
+      "D": "At the same height"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 5112,
+    "question": "When kneeling on one knee, which direction does the top of the non-kneeling foot face?",
+    "options": {
+      "A": "Up",
+      "B": "Backward",
+      "C": "Forward",
+      "D": "Down"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 5125,
+    "question": "When standing on level ground and bending backward until the palms touch the ground, how does the distance between the head and the ceiling compare to the distance when standing upright?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "Increases",
+      "C": "Decreases",
+      "D": "Remains essentially the same"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 5167,
+    "question": "When a person stands upside down on level ground, are the knees usually closer to or farther from the ground compared to the buttocks?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "The same distance",
+      "C": "Closer to",
+      "D": "Farther from"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 5022,
+    "question": "When standing on tiptoes, are the toes above or below the ankle?",
+    "options": {
+      "A": "Below",
+      "B": "At the same height",
+      "C": "Above",
+      "D": "Insufficient information to determine"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 5123,
+    "question": "When standing on level ground and bending backward until the palms touch the ground, how does the shortest distance between the palms and the heels change?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "Increase",
+      "C": "Remain essentially unchanged",
+      "D": "Decrease"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 5090,
+    "question": "When a person is lying face down, viewed from the side, are the knees typically higher or lower than the buttocks?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "Lower",
+      "C": "Not necessarily",
+      "D": "Higher"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 5035,
+    "question": "When sitting, how does the distance between the eyebrows and knees change compared to standing?",
+    "options": {
+      "A": "Becomes longer",
+      "B": "Insufficient information to determine",
+      "C": "Becomes shorter",
+      "D": "Remains essentially unchanged"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 5063,
+    "question": "When squatting, compared to standing, how does the distance between the waist and the ground change?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "Decreases",
+      "C": "Remains essentially unchanged",
+      "D": "Increases"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 5142,
+    "question": "When standing on level ground and tilting the head to the left, how does the distance between the left ear and the left shoulder change?",
+    "options": {
+      "A": "Decreases",
+      "B": "Increases",
+      "C": "Insufficient information to determine",
+      "D": "Remains the same"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 5033,
+    "question": "Compared to standing, how does the distance between the buttocks and the neck change when sitting?",
+    "options": {
+      "A": "Becomes shorter",
+      "B": "Remains essentially unchanged",
+      "C": "Insufficient information to determine",
+      "D": "Becomes longer"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 5019,
+    "question": "When a person is standing normally, how does the height of the knees typically compare to the height of the hips?",
+    "options": {
+      "A": "Lower than the hips",
+      "B": "Higher than the hips",
+      "C": "Not necessarily either",
+      "D": "Insufficient information to determine"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 5080,
+    "question": "When lying on your side facing right, which is farther from the ceiling: the tip of your nose or your right ear?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "Tip of the nose",
+      "C": "They are equidistant",
+      "D": "Right ear"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 5097,
+    "question": "When lying flat normally, do the inner thighs usually touch the bed surface?",
+    "options": {
+      "A": "Insufficient information to determine",
+      "B": "Do not touch",
+      "C": "Not necessarily",
+      "D": "Touch"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 6008,
+    "question": "In a quiet room, which sound is usually louder: the ticking of a watch or the vibration of a mobile phone?",
+    "options": {
+      "A": "It depends",
+      "B": "Watch ticking",
+      "C": "Mobile phone vibration",
+      "D": "Almost the same"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 6022,
+    "question": "Which sound typically has a higher pitch: a baby's cry or an adult's speech?",
+    "options": {
+      "A": "Baby's cry",
+      "B": "Almost the same",
+      "C": "It depends",
+      "D": "Adult's speech"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 6084,
+    "question": "Which sound typically has a higher pitch: a basketball or a table tennis ball dropped from the same height onto a wooden floor?",
+    "options": {
+      "A": "Almost the same",
+      "B": "Table tennis ball",
+      "C": "Basketball",
+      "D": "It depends"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 6066,
+    "question": "Which sound is usually louder: the sizzling of pan-fried fish or the steaming of fish?",
+    "options": {
+      "A": "Pan-fried fish",
+      "B": "Almost the same",
+      "C": "Steamed fish",
+      "D": "It depends"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 6096,
+    "question": "Which sound typically has a higher pitch: striking an iron door or a wooden door with a key?",
+    "options": {
+      "A": "Almost the same",
+      "B": "Iron door",
+      "C": "It depends",
+      "D": "Wooden door"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 6018,
+    "question": "Rank the following sounds from loudest to quietest: applause, keyboard typing, crab crawling, baby crying.",
+    "options": {
+      "A": "Baby crying > Applause > Keyboard typing > Crab crawling",
+      "B": "Applause > Baby crying > Keyboard typing > Crab crawling",
+      "C": "Baby crying > Keyboard typing > Applause > Crab crawling",
+      "D": "Baby crying > Applause > Crab crawling > Keyboard typing"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 6035,
+    "question": "Which sound typically has a higher pitch: a microwave oven operating or a telephone ring?",
+    "options": {
+      "A": "Microwave oven operating sound",
+      "B": "Telephone ring",
+      "C": "It depends",
+      "D": "Almost the same"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 6064,
+    "question": "Which sound is usually louder: cutting cucumbers or loofah?",
+    "options": {
+      "A": "Cutting cucumber",
+      "B": "Almost the same",
+      "C": "Cutting loofah",
+      "D": "It depends"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 6031,
+    "question": "Which sound typically has a higher pitch: a tire explosion sound or glass shattering sound?",
+    "options": {
+      "A": "Tire explosion sound",
+      "B": "Glass shattering sound",
+      "C": "It depends",
+      "D": "Almost the same"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 6080,
+    "question": "Which sound typically has a higher pitch: tapping a porcelain bowl or a wooden bowl with chopsticks?",
+    "options": {
+      "A": "Porcelain bowl",
+      "B": "Almost the same",
+      "C": "It depends",
+      "D": "Wooden bowl"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 6050,
+    "question": "Which sound is usually louder: quickly crumpling plastic wrap or baking paper with hands?",
+    "options": {
+      "A": "It depends",
+      "B": "Almost the same",
+      "C": "Plastic wrap",
+      "D": "Baking paper"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 6005,
+    "question": "Which of the following kitchen operations typically produces the least noise?",
+    "options": {
+      "A": "Stir-frying",
+      "B": "Steaming rice",
+      "C": "Boiling water",
+      "D": "Chopping vegetables"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 6091,
+    "question": "Which sound typically has a higher pitch: tapping a coin against a glass window or a wooden window frame?",
+    "options": {
+      "A": "It depends",
+      "B": "Glass window",
+      "C": "Almost the same",
+      "D": "Wooden window frame"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 6015,
+    "question": "Which sound is usually louder: chicken being deep-fried in hot oil or sausages being grilled in a sausage grill?",
+    "options": {
+      "A": "Sausages being grilled in a sausage grill",
+      "B": "It depends",
+      "C": "Almost the same",
+      "D": "Chicken being deep-fried in hot oil"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 6033,
+    "question": "Which sound typically has a higher pitch: the highest note on a piano or the sound of applause?",
+    "options": {
+      "A": "Applause",
+      "B": "Almost the same",
+      "C": "It depends",
+      "D": "The highest piano note"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 6073,
+    "question": "When playing the piano, what should we do if we want to produce increasingly higher pitch sounds?",
+    "options": {
+      "A": "Press the keys from right to left",
+      "B": "Press the keys at increasing speeds",
+      "C": "Hold down the keys for longer durations",
+      "D": "Press the keys from left to right"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 6051,
+    "question": "Which sound is usually louder: quickly crumpling a plastic bag or a paper napkin with hands?",
+    "options": {
+      "A": "Plastic bag",
+      "B": "Almost the same",
+      "C": "Paper napkin",
+      "D": "It depends"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 6028,
+    "question": "Which sound typically has a higher pitch: a motorcycle engine sound or a bicycle bell ring?",
+    "options": {
+      "A": "Bicycle bell ring",
+      "B": "Motorcycle engine sound",
+      "C": "Almost the same",
+      "D": "It depends"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 6014,
+    "question": "Which sound is usually louder: the sound of grinding coffee beans or the buzzing sound of a mosquito in flight?",
+    "options": {
+      "A": "It depends",
+      "B": "The sound of grinding coffee beans",
+      "C": "The buzzing sound of a mosquito",
+      "D": "Almost the same"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 6024,
+    "question": "Which sound typically has a higher pitch: the sound of a glass cup or a sushi roll falling onto concrete ground?",
+    "options": {
+      "A": "Sushi roll",
+      "B": "It depends",
+      "C": "Glass cup",
+      "D": "Almost the same"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 6023,
+    "question": "Which sound typically has a higher pitch: whistling or finger snapping?",
+    "options": {
+      "A": "It depends",
+      "B": "Almost the same",
+      "C": "Whistling",
+      "D": "Finger snapping"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 6036,
+    "question": "Which sound typically has a higher pitch: the sound of a glass breaking or the sound of knocking on a wooden floor?",
+    "options": {
+      "A": "It depends",
+      "B": "Knocking on wooden floor",
+      "C": "Glass breaking",
+      "D": "Almost the same"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 6032,
+    "question": "Which sound typically has a higher pitch: the buzzing sound of a mosquito or a fly in flight?",
+    "options": {
+      "A": "Almost the same",
+      "B": "It depends",
+      "C": "Fly's buzzing sound",
+      "D": "Mosquito's buzzing sound"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 6001,
+    "question": "Which sound is usually louder: a monkey's footsteps or a crow's caw?",
+    "options": {
+      "A": "Almost the same",
+      "B": "A crow's caw",
+      "C": "A monkey's footsteps",
+      "D": "It depends"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 6039,
+    "question": "Which of the following sounds is usually louder?",
+    "options": {
+      "A": "A paper plate dropping on the floor after eating cake",
+      "B": "Wooden chopsticks dropping on the floor",
+      "C": "Moving a mouse on a mousepad",
+      "D": "Wiping mouth with a tissue"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 6087,
+    "question": "Which sound typically has a higher pitch: wind blowing through glass wind chimes or bamboo wind chimes?",
+    "options": {
+      "A": "It depends",
+      "B": "Bamboo wind chimes",
+      "C": "Almost the same",
+      "D": "Glass wind chimes"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 6043,
+    "question": "Which sound is usually louder: a basketball or a table tennis ball dropped from the same height onto a wooden floor?",
+    "options": {
+      "A": "Almost the same",
+      "B": "Table tennis ball",
+      "C": "It depends",
+      "D": "Basketball"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 6095,
+    "question": "Which sound typically has a higher pitch: a light bulb breaking on the floor or on the carpet?",
+    "options": {
+      "A": "Almost the same",
+      "B": "It depends",
+      "C": "On the floor",
+      "D": "On the carpet"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 6058,
+    "question": "Which sound is usually louder: cutting a carrot or a tomato with a knife?",
+    "options": {
+      "A": "Almost the same",
+      "B": "It depends",
+      "C": "Tomato",
+      "D": "Carrot"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 6021,
+    "question": "Rank the following sounds from loudest to quietest: door lock turning sound, toilet flushing sound, fire alarm sound, earthworm movement sound.",
+    "options": {
+      "A": "Fire alarm > Door lock turning > Earthworm movement > Toilet flushing sound",
+      "B": "Fire alarm > Toilet flushing > Door lock turning > Earthworm movement sound",
+      "C": "Fire alarm > Toilet flushing > Earthworm movement > Door lock turning sound",
+      "D": "Fire alarm > Door lock turning > Toilet flushing > Earthworm movement sound"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 6047,
+    "question": "Which sound is usually louder: a stone or a paper ball of the same size hitting a wooden board?",
+    "options": {
+      "A": "Almost the same",
+      "B": "It depends",
+      "C": "The paper ball",
+      "D": "The stone"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 6012,
+    "question": "Which sound is usually louder: ocean waves crashing on the shore or a small river flowing?",
+    "options": {
+      "A": "Ocean waves crashing",
+      "B": "A small river flowing",
+      "C": "Almost the same",
+      "D": "It depends"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 6057,
+    "question": "Which sound is usually louder: rubbing transparent tape or cotton string with the same force?",
+    "options": {
+      "A": "It depends",
+      "B": "Almost the same",
+      "C": "Cotton string",
+      "D": "Transparent tape"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 6020,
+    "question": "Rank the following sounds from loudest to quietest: balloon popping sound, cockroach crawling on wooden floor, fireworks explosion, squeezing play dough.",
+    "options": {
+      "A": "Balloon popping > fireworks explosion > cockroach crawling on wooden floor > squeezing play dough",
+      "B": "Fireworks explosion > cockroach crawling on wooden floor > squeezing play dough > balloon popping sound",
+      "C": "Fireworks explosion > balloon popping > squeezing play dough > cockroach crawling on wooden floor",
+      "D": "Fireworks explosion > balloon popping > cockroach crawling on wooden floor > squeezing play dough"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 6017,
+    "question": "Which sound is usually louder, a train arriving at the station or mopping the floor?",
+    "options": {
+      "A": "A train arriving at the station",
+      "B": "It depends",
+      "C": "Mopping the floor",
+      "D": "Almost the same"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 6041,
+    "question": "Which action on aluminum foil with hands typically produces the loudest sound?",
+    "options": {
+      "A": "Slow tearing",
+      "B": "Quick crumpling",
+      "C": "Slow folding",
+      "D": "Gentle smoothing"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 6072,
+    "question": "Which sound is usually louder: typing on a smartphone touchscreen or typing on a computer keyboard?",
+    "options": {
+      "A": "Typing on a smartphone touchscreen",
+      "B": "Typing on a computer keyboard",
+      "C": "It depends",
+      "D": "Almost the same"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 6070,
+    "question": "Which sound is usually louder: a flower petal or an apple falling from the same height onto concrete?",
+    "options": {
+      "A": "The flower petal",
+      "B": "Almost the same",
+      "C": "It depends",
+      "D": "The apple"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 6049,
+    "question": "Which sound is usually louder: dropping an eggshell or a walnut shell on ceramic tile floor?",
+    "options": {
+      "A": "It depends",
+      "B": "Eggshell",
+      "C": "Walnut shell",
+      "D": "Almost the same"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 6098,
+    "question": "Which sound typically has a higher pitch: the sound of fingernails scratching a chalkboard or the sound of hand clapping?",
+    "options": {
+      "A": "Fingernails scratching a chalkboard",
+      "B": "Almost the same",
+      "C": "It depends",
+      "D": "Hand clapping"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 7094,
+    "question": "Which type of slippers feel the warmest when you put them on in the morning?",
+    "options": {
+      "A": "Plastic slippers",
+      "B": "Wooden slippers",
+      "C": "Plush slippers",
+      "D": "Disposable slippers"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 7027,
+    "question": "Which toy has the highest elasticity?",
+    "options": {
+      "A": "Toy bricks",
+      "B": "Plasticine",
+      "C": "Slime",
+      "D": "Rubber ball"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 7052,
+    "question": "Which pastry has the softest texture?",
+    "options": {
+      "A": "Mooncake",
+      "B": "Chiffon cake",
+      "C": "Walnut cookie",
+      "D": "Baguette"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 7072,
+    "question": "Which vegetable usually weighs the most per piece?",
+    "options": {
+      "A": "Green bell pepper",
+      "B": "Pumpkin",
+      "C": "Eggplant",
+      "D": "Tomato"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 7097,
+    "question": "Which tableware handle feels the coolest at room temperature?",
+    "options": {
+      "A": "Plastic",
+      "B": "Wood",
+      "C": "Bamboo",
+      "D": "Ceramic"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 7006,
+    "question": "What kind of ground is the most slippery on rainy days?",
+    "options": {
+      "A": "Rubber track",
+      "B": "Marble",
+      "C": "Grass",
+      "D": "Beach"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 7078,
+    "question": "Which part of the human body is usually the thickest?",
+    "options": {
+      "A": "Neck",
+      "B": "Wrist",
+      "C": "Elbow",
+      "D": "Ankle"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 7047,
+    "question": "Which ripe fruit is the hardest?",
+    "options": {
+      "A": "Cherry",
+      "B": "Grape",
+      "C": "Water chestnut",
+      "D": "Kiwi"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 7084,
+    "question": "Which vegetable is usually the thickest?",
+    "options": {
+      "A": "Cucumber",
+      "B": "Carrot",
+      "C": "Green bell pepper",
+      "D": "Winter melon"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 7064,
+    "question": "Which stationery item is usually the heaviest?",
+    "options": {
+      "A": "Ruler",
+      "B": "Stapler",
+      "C": "Eraser",
+      "D": "Pencil"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 7033,
+    "question": "Which seafood typically has the highest elasticity?",
+    "options": {
+      "A": "Braised crucian carp",
+      "B": "Steamed sea bass",
+      "C": "Grilled squid",
+      "D": "Pan-fried hairtail fish"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 7025,
+    "question": "Which type of rope has the highest elasticity?",
+    "options": {
+      "A": "Hemp rope",
+      "B": "Rubber rope",
+      "C": "Steel wire rope",
+      "D": "Cotton rope"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 7034,
+    "question": "Which seafood typically has the highest elasticity?",
+    "options": {
+      "A": "Steamed sea snails",
+      "B": "Salmon sashimi",
+      "C": "Steamed crab",
+      "D": "Grilled eel"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 7003,
+    "question": "Which material feels the most different from other materials in terms of smoothness? (1) Iron plate (2) Velvet (3) Mirror (4) The surface of the plastic box",
+    "options": {
+      "A": "Velvet",
+      "B": "The surface of the plastic box",
+      "C": "Mirror",
+      "D": "Iron plate"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 7037,
+    "question": "Which fruit typically has the highest elastic flesh?",
+    "options": {
+      "A": "Mulberry",
+      "B": "Lychee",
+      "C": "Banana",
+      "D": "Watermelon"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 7080,
+    "question": "Which object is usually the thickest?",
+    "options": {
+      "A": "Pencil",
+      "B": "Drinking straw",
+      "C": "Rolling pin",
+      "D": "Chopsticks"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 7083,
+    "question": "Which type of rope is usually the thinnest?",
+    "options": {
+      "A": "Clothesline",
+      "B": "Dental floss",
+      "C": "Rope for tug of war",
+      "D": "Ropeway rope"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 7079,
+    "question": "Which object is usually the thickest?",
+    "options": {
+      "A": "Adult male's ankle",
+      "B": "Fountain pen",
+      "C": "Adult male's wrist",
+      "D": "Lamppost"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 7008,
+    "question": "Which item feels the smoothest to touch?",
+    "options": {
+      "A": "Stainless steel chopsticks",
+      "B": "Wooden chopsticks",
+      "C": "Live crucian carp",
+      "D": "Chalk"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 7011,
+    "question": "Which type of paper has the smoothest surface?",
+    "options": {
+      "A": "Newspaper",
+      "B": "Photo paper",
+      "C": "Kraft paper",
+      "D": "Toilet paper"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 7046,
+    "question": "Which ripe fruit is the softest?",
+    "options": {
+      "A": "Apple",
+      "B": "Banana",
+      "C": "Pear",
+      "D": "Hami melon"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 7082,
+    "question": "Which type of rope is usually the thinnest?",
+    "options": {
+      "A": "Jump rope",
+      "B": "Shoelace",
+      "C": "Climbing rope",
+      "D": "Sewing thread"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 7086,
+    "question": "Which plant is usually the thinnest?",
+    "options": {
+      "A": "Willow",
+      "B": "Ginkgo",
+      "C": "Metasequoia",
+      "D": "Bamboo"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 7087,
+    "question": "Which liquid has the highest viscosity?",
+    "options": {
+      "A": "Honey",
+      "B": "Sugar water",
+      "C": "Clear water",
+      "D": "Saline solution"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 7022,
+    "question": "Which type of knife handle has the highest elasticity?",
+    "options": {
+      "A": "Plastic handle",
+      "B": "Metal handle",
+      "C": "Wooden handle",
+      "D": "Silicone handle"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 7067,
+    "question": "Which cleaning tool is usually the heaviest?",
+    "options": {
+      "A": "Mop",
+      "B": "Brush",
+      "C": "Cleaning cloth",
+      "D": "Broom"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 7036,
+    "question": "Which vegetable typically has the highest elasticity?",
+    "options": {
+      "A": "Eggplant",
+      "B": "Cabbage",
+      "C": "Celtuce",
+      "D": "Potato"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 7021,
+    "question": "Which material is the most elastic?",
+    "options": {
+      "A": "Plastic",
+      "B": "Wood",
+      "C": "Rubber",
+      "D": "Steel"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 7026,
+    "question": "Which ball has the highest elasticity?",
+    "options": {
+      "A": "Bowling ball",
+      "B": "Plasticine ball",
+      "C": "Table tennis ball",
+      "D": "Shuttlecock"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 7016,
+    "question": "Which vegetable has the smoothest skin?",
+    "options": {
+      "A": "Celtuce",
+      "B": "Potato",
+      "C": "Eggplant",
+      "D": "Carrot"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 7013,
+    "question": "Which ball has the smoothest surface?",
+    "options": {
+      "A": "Billiard ball",
+      "B": "Basketball",
+      "C": "Shuttlecock",
+      "D": "Tennis ball"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 7073,
+    "question": "Which nut usually weighs the least per piece?",
+    "options": {
+      "A": "Peanuts",
+      "B": "Walnuts",
+      "C": "Sunflower seeds",
+      "D": "Pistachios"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 7059,
+    "question": "Which type of ruler breaks most easily?",
+    "options": {
+      "A": "Bamboo ruler",
+      "B": "Metal ruler",
+      "C": "Plastic ruler",
+      "D": "Wooden ruler"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 7077,
+    "question": "Which part of the human body is usually the thickest?",
+    "options": {
+      "A": "Neck",
+      "B": "Arm",
+      "C": "Calf",
+      "D": "Waist"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 7038,
+    "question": "Which fruit typically has the highest elastic flesh?",
+    "options": {
+      "A": "Dragon fruit",
+      "B": "Durian",
+      "C": "Waxberry",
+      "D": "Longan"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 7074,
+    "question": "Which pet is usually the lightest?",
+    "options": {
+      "A": "Hamster",
+      "B": "Rabbit",
+      "C": "Guinea pig",
+      "D": "Chinchilla"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 7058,
+    "question": "Which type of pen/pencil breaks most easily?",
+    "options": {
+      "A": "Pencil",
+      "B": "Fountain pen",
+      "C": "Crayon",
+      "D": "Ballpoint pen"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 7042,
+    "question": "Which food is the hardest to bite?",
+    "options": {
+      "A": "Pudding",
+      "B": "Soda crackers",
+      "C": "Wafer biscuits",
+      "D": "Lollipop"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 7056,
+    "question": "Which item is the most easily deformable?",
+    "options": {
+      "A": "Plasticine",
+      "B": "Glass cup",
+      "C": "Toy bricks",
+      "D": "Stainless steel chopsticks"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 7075,
+    "question": "Which insect is usually the lightest?",
+    "options": {
+      "A": "Honeybee",
+      "B": "Cockroach",
+      "C": "Butterfly",
+      "D": "Ant"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 8082,
+    "question": "Which of the following foods is generally the spiciest?",
+    "options": {
+      "A": "Banana",
+      "B": "Cherry",
+      "C": "Yellow peach",
+      "D": "Mustard"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 8046,
+    "question": "Which food is most likely to have a spicy taste?",
+    "options": {
+      "A": "Spicy hot pot",
+      "B": "Corn",
+      "C": "Nori",
+      "D": "Tanghulu"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 8099,
+    "question": "How many of the following sentences are semantically reasonable? (1) The bitterness and fresh aroma of this green tea interweave, leaving a lingering aftertaste. (2) The sweet and sour taste of these sweet and sour spare ribs makes one want to take a few more bites. (3) The savory and sweet flavors of this peanut butter blend together, making each bite particularly satisfying. (4) The bitterness and garlic aroma of this cold cucumber dish stimulates one's appetite.",
+    "options": {
+      "A": "1",
+      "B": "3",
+      "C": "2",
+      "D": "4"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 8057,
+    "question": "Which food is least likely to have a sweet taste?",
+    "options": {
+      "A": "Hot and sour soup",
+      "B": "Apple",
+      "C": "Lychee",
+      "D": "Sweet potato"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 8034,
+    "question": "Which food is most likely to have a sweet taste?",
+    "options": {
+      "A": "Rice",
+      "B": "Persimmon",
+      "C": "Steak",
+      "D": "Potato chips"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 8068,
+    "question": "Which food is least likely to have a spicy taste?",
+    "options": {
+      "A": "Grilled fish",
+      "B": "Hulatang",
+      "C": "Winter jujube",
+      "D": "Malatang"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 8026,
+    "question": "Which food is most likely to have a sour taste?",
+    "options": {
+      "A": "Ice cream",
+      "B": "Beef",
+      "C": "Apple",
+      "D": "Bread"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 8073,
+    "question": "Which of the following foods is generally the sweetest?",
+    "options": {
+      "A": "Pepper",
+      "B": "Lychee",
+      "C": "Plum",
+      "D": "Salted fish"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 8041,
+    "question": "Which food is most likely to have a salty taste?",
+    "options": {
+      "A": "Apple",
+      "B": "Red dates",
+      "C": "Peach",
+      "D": "Smoked meat"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 8039,
+    "question": "Which food is most likely to have a bitter taste?",
+    "options": {
+      "A": "Noodles",
+      "B": "Jelly",
+      "C": "Mustard",
+      "D": "Sweet chili sauce"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 8051,
+    "question": "Which food is least likely to have a sour taste?",
+    "options": {
+      "A": "Plum",
+      "B": "Roasted chicken",
+      "C": "Orange",
+      "D": "Peach"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 8003,
+    "question": "Which group of foods are likely to be sour?",
+    "options": {
+      "A": "Green plums and yogurt",
+      "B": "Spicy strips and green tea",
+      "C": "Pickled cabbage and beef jerky",
+      "D": "Bitter gourd and cola"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 8091,
+    "question": "How many of the following sentences are semantically reasonable? (1) This chocolate is too sour, and it's absolutely my favorite. (2) The stir-fried meat with chili peppers is extremely spicy, making people sweat profusely after eating. (3) The saltiness of this lemonade is just right, and it's very thirst-quenching. (4) This sour plum drink has an intense tartness,  and it's truly memorable.",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 8067,
+    "question": "Which food is least likely to have a salty taste?",
+    "options": {
+      "A": "Soy sauce",
+      "B": "Grilled lamb chops",
+      "C": "Hamburger",
+      "D": "Apple"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 8029,
+    "question": "Which food is most likely to have a sour taste?",
+    "options": {
+      "A": "Grilled fish",
+      "B": "Apple vinegar",
+      "C": "Salad dressing",
+      "D": "Chicken wings"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 8095,
+    "question": "How many of the following sentences are semantically reasonable? (1) The saltiness and spiciness of this curry complement each other perfectly, creating a rich flavor profile. (2) The bitterness and sweetness of this matcha cake interweave, making it quite unique. (3) The sweet taste of the sour-spicy rice noodles is irresistible. (4) The saltiness of this grilled meat combines with the smoky aroma from charcoal fire, resulting in an excellent taste.",
+    "options": {
+      "A": "2",
+      "B": "1",
+      "C": "3",
+      "D": "4"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 8014,
+    "question": "Which group of foods are likely to be bitter?",
+    "options": {
+      "A": "Mustard and grapes",
+      "B": "Green tea and almonds",
+      "C": "Tomatoes and orange juice",
+      "D": "Chinese sauerkraut and oranges"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 8033,
+    "question": "Which food is most likely to have a sweet taste?",
+    "options": {
+      "A": "Chicken",
+      "B": "Mushroom",
+      "C": "Doughnut",
+      "D": "Lamb skewers"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 8020,
+    "question": "Which group of foods are likely to be salty?",
+    "options": {
+      "A": "Cured meat and tomatoes",
+      "B": "Pickled mustard tuber and spicy strips",
+      "C": "Sausage and cucumber",
+      "D": "Bitter gourd and cake"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 8052,
+    "question": "Which food is least likely to have a sour taste?",
+    "options": {
+      "A": "Cream",
+      "B": "Chinese sauerkraut",
+      "C": "Lemon",
+      "D": "Cherry"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 8047,
+    "question": "Which food is most likely to have a spicy taste?",
+    "options": {
+      "A": "Beef bone soup",
+      "B": "Pineapple",
+      "C": "Salad",
+      "D": "Spicy soup"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 8036,
+    "question": "Which food is most likely to have a bitter taste?",
+    "options": {
+      "A": "Tofu",
+      "B": "Mint",
+      "C": "Milk",
+      "D": "Grilled fish"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 8015,
+    "question": "Which group of foods are likely to be bitter?",
+    "options": {
+      "A": "Celtuce and dried tangerine peel",
+      "B": "bitter melon and chili sauce",
+      "C": "raisins and bananas",
+      "D": "ham and yogurt"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 8001,
+    "question": "Which group of foods are likely to be sour?",
+    "options": {
+      "A": "Grapes and milk",
+      "B": "Chili peppers and honey",
+      "C": "Chocolate and lemon",
+      "D": "Lemon and hawthorn"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 8083,
+    "question": "Which of the following foods is generally the spiciest?",
+    "options": {
+      "A": "mung bean",
+      "B": "cherry",
+      "C": "coffee",
+      "D": "Butter hotpot"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 8063,
+    "question": "Which food is least likely to have a salty taste?",
+    "options": {
+      "A": "Strawberry",
+      "B": "Salted fish",
+      "C": "Salted peanut",
+      "D": "Cured meat"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 8071,
+    "question": "Which of the following foods is generally the sourest?",
+    "options": {
+      "A": "Peach",
+      "B": "Orange juice",
+      "C": "Red dates",
+      "D": "Green tea"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 8069,
+    "question": "Which food is least likely to have a spicy taste?",
+    "options": {
+      "A": "Spicy chicken wings",
+      "B": "Hot and sour rice noodles",
+      "C": "Orange",
+      "D": "Stir-fried pork with chili"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 8002,
+    "question": "Which group of foods are likely to be sour?",
+    "options": {
+      "A": "Peaches and durian",
+      "B": "Chili peppers and soy sauce",
+      "C": "Ham and apples",
+      "D": "Vinegar and preserved plums"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 8049,
+    "question": "Which food is most likely to have a spicy taste?",
+    "options": {
+      "A": "Spicy chicken",
+      "B": "Fruit salad",
+      "C": "Bok Choy",
+      "D": "Nori soup"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 8042,
+    "question": "Which food is most likely to have a salty taste?",
+    "options": {
+      "A": "Bell pepper",
+      "B": "Cola",
+      "C": "Corn",
+      "D": "Grilled fish"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 8087,
+    "question": "Classify the following foods according to their taste: spicy chicken wings, blueberries, oranges, green bell peppers.",
+    "options": {
+      "A": "Group 1 (blueberries, green bell peppers), Group 2 (spicy chicken wings, oranges)",
+      "B": "Group 1 (spicy chicken wings), Group 2 (blueberries, oranges), Group 3 (green bell peppers)",
+      "C": "Group 1 (spicy chicken wings, green bell peppers), Group 2 (blueberries, oranges)",
+      "D": "Group 1 (spicy chicken wings, green bell peppers), Group 2 (blueberries), Group 3 (oranges)"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 8048,
+    "question": "Which food is most likely to have a spicy taste?",
+    "options": {
+      "A": "Green tea",
+      "B": "Mapo tofu",
+      "C": "Red bean bun",
+      "D": "Chinese crepe"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 8062,
+    "question": "Which food is least likely to have a bitter taste?",
+    "options": {
+      "A": "Chocolate",
+      "B": "Oolong tea",
+      "C": "Sweet potato",
+      "D": "Bitter gourd"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 8027,
+    "question": "Which food is most likely to have a sour taste?",
+    "options": {
+      "A": "Egg tart",
+      "B": "Fried chicken",
+      "C": "Blueberries",
+      "D": "Butter"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 8074,
+    "question": "Which of the following foods is generally the sweetest?",
+    "options": {
+      "A": "Cucumber",
+      "B": "Pomegranate",
+      "C": "Rice",
+      "D": "Egg yolk"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 8058,
+    "question": "Which food is least likely to have a sweet taste?",
+    "options": {
+      "A": "Pear",
+      "B": "Salted fish",
+      "C": "Mango",
+      "D": "Grapefruit"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 8080,
+    "question": "Which of the following foods is generally the saltiest?",
+    "options": {
+      "A": "Mint",
+      "B": "Pickled gherkin",
+      "C": "Cilantro",
+      "D": "Red beans"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 8004,
+    "question": "Which group of foods are likely to be sour?",
+    "options": {
+      "A": "Steamed bread and peaches",
+      "B": "Blueberries and peanuts",
+      "C": "Red dates and onions",
+      "D": "Sour plum drink and passion fruit"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 8098,
+    "question": "How many of the following sentences are semantically reasonable? (1) This orange is very sweet with abundant juice, making you feel blissful with every bite. (2) The sourness and bitterness of this lemon cake complement each other perfectly, creating an excellent mouthfeel. (3) The spiciness and sourness of these pickled pepper chicken feet blend together, creating a unique flavor profile. (4) This kimchi has an intense sour taste that makes you reach for water after one bite.",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "1",
+      "D": "2"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 9063,
+    "question": "Which of the following has the most pungent odor?",
+    "options": {
+      "A": "Empty cola can",
+      "B": "Newly opened pack of tissues",
+      "C": "Canned herring",
+      "D": "Cotton swab"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 9074,
+    "question": "Which of the following has the most pungent odor?",
+    "options": {
+      "A": "Body odor of house cats",
+      "B": "Clean cat litter",
+      "C": "New plastic litter box",
+      "D": "Body odor of stray dogs"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 9045,
+    "question": "Which of the following things has the most distinct fragrance?",
+    "options": {
+      "A": "Unused bedsheets ",
+      "B": "Lavender",
+      "C": "Clean wooden floor",
+      "D": "New shoebox"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 9090,
+    "question": "Where are you most likely to smell floral fragrance?",
+    "options": {
+      "A": "Courtyard",
+      "B": "Garage",
+      "C": "Kitchen",
+      "D": "Restaurant"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 9035,
+    "question": "Which condiment has the most pungent smell?",
+    "options": {
+      "A": "Mustard",
+      "B": "Rock candy",
+      "C": "Salt",
+      "D": "MSG"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 9096,
+    "question": "Where are you most likely to detect the smell of alcohol?",
+    "options": {
+      "A": "Bathroom",
+      "B": "Hospital",
+      "C": "Flower shop",
+      "D": "Library"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 9077,
+    "question": "Which of the following has the most pungent odor?",
+    "options": {
+      "A": "Rotting leaves",
+      "B": "Wooden floor",
+      "C": "Stone pavement",
+      "D": "Bathroom tiles"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 9064,
+    "question": "Which of the following has the most pungent odor?",
+    "options": {
+      "A": "Air purifier",
+      "B": "Glass window",
+      "C": "Socks worn for a day",
+      "D": "Empty bathtub"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 9048,
+    "question": "Which of the following things has the most distinct fragrance?",
+    "options": {
+      "A": "Rose tea",
+      "B": "Eggplant",
+      "C": "Potato",
+      "D": "Carrot"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 9027,
+    "question": "Which seasoning has the mildest aroma?",
+    "options": {
+      "A": "Mustard",
+      "B": "Sichuan peppercorn",
+      "C": "Chili pepper",
+      "D": "White sugar"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 9039,
+    "question": "Which seasoning has the mildest smell?",
+    "options": {
+      "A": "Vinegar",
+      "B": "Soy sauce",
+      "C": "Ground pepper",
+      "D": "Salt"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 9032,
+    "question": "Which condiment has the saltiest smell?",
+    "options": {
+      "A": "Cooking wine",
+      "B": "MSG",
+      "C": "Shrimp paste",
+      "D": "Sesame oil"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 9082,
+    "question": "Which place is most likely to have a disinfectant smell?",
+    "options": {
+      "A": "Attic",
+      "B": "Hospital",
+      "C": "Basement",
+      "D": "Supermarket"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 9043,
+    "question": "Which of the following things has the most distinct fragrance?",
+    "options": {
+      "A": "Lucky bamboo",
+      "B": "Fertilizer",
+      "C": "Soil",
+      "D": "Osmanthus"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 9013,
+    "question": "Which snack has the strongest aroma?",
+    "options": {
+      "A": "Spicy strips",
+      "B": "Chocolate",
+      "C": "Gummy candies",
+      "D": "Cookies"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 9073,
+    "question": "Which of the following has the most pungent odor?",
+    "options": {
+      "A": "A computer mouse that has been stored for a year",
+      "B": "A box of unopened milk",
+      "C": "Milk opened for one hour",
+      "D": "Milk that expired a year ago"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 9055,
+    "question": "Which of the following has the most distinct fragrance?",
+    "options": {
+      "A": "Straw",
+      "B": "Glass",
+      "C": "Green tea",
+      "D": "Teapot"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 9085,
+    "question": "Which place is most likely to have a musty smell?",
+    "options": {
+      "A": "Study room",
+      "B": "Bedroom",
+      "C": "Basement",
+      "D": "Kitchen"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 9024,
+    "question": "Which seasoning has the strongest aroma?",
+    "options": {
+      "A": "Brown sugar",
+      "B": "Salt",
+      "C": "MSG",
+      "D": "Vinegar"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 9076,
+    "question": "Which of the following has the most pungent odor?",
+    "options": {
+      "A": "Unused toilet",
+      "B": "Unflushed toilet",
+      "C": "Water heater",
+      "D": "Toilet seat"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 9015,
+    "question": "Which snack has the most refreshing aroma?",
+    "options": {
+      "A": "Dried strawberry",
+      "B": "Mint candy",
+      "C": "Milk candy",
+      "D": "Dried mango"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 9049,
+    "question": "Which of the following things has the most distinct fragrance?",
+    "options": {
+      "A": "Cabbage",
+      "B": "Cooking wine",
+      "C": "Mint",
+      "D": "White sugar"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 9088,
+    "question": "Which place has the strongest paint smell?",
+    "options": {
+      "A": "A house lived in for three years",
+      "B": "A roughcast house",
+      "C": "A newly renovated house",
+      "D": "A furniture store"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 9047,
+    "question": "Which of the following things has the most distinct fragrance?",
+    "options": {
+      "A": "Wooden chopsticks",
+      "B": "Rose essential oil",
+      "C": "Frozen dumplings",
+      "D": "Pearl"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 9078,
+    "question": "Which of the following has the most pungent odor?",
+    "options": {
+      "A": "A fully packed backpack",
+      "B": "Clothes after running a marathon",
+      "C": "A face mask that has been used for a day",
+      "D": "Swan feathers that have fallen"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 9004,
+    "question": "Which vegetable has the most pungent smell before cooking?",
+    "options": {
+      "A": "Carrot",
+      "B": "Crown Daisy",
+      "C": "Celtuce",
+      "D": "Ginger"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 9058,
+    "question": "Which of the following has the most distinct fragrance?",
+    "options": {
+      "A": "Raw chicken wings",
+      "B": "Fried beef steak",
+      "C": "Raw eggs",
+      "D": "Raw beef"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 9041,
+    "question": "Which of the following things has the most distinct fragrance?",
+    "options": {
+      "A": "Fresh mushrooms",
+      "B": "Perfume",
+      "C": "Bricks",
+      "D": "Corrugated cardboard"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 9028,
+    "question": "Which seasoning has the most pungent smell?",
+    "options": {
+      "A": "White sugar",
+      "B": "Soy sauce",
+      "C": "Salt",
+      "D": "Ground pepper"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 9091,
+    "question": "Which place is most likely to have the smell of leather?",
+    "options": {
+      "A": "Restaurant",
+      "B": "Car dealership",
+      "C": "Clothing store",
+      "D": "Bag store"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 9036,
+    "question": "Which condiment has the strongest milky aroma?",
+    "options": {
+      "A": "Lemon juice",
+      "B": "Mustard",
+      "C": "Condensed milk",
+      "D": "Pepper"
+    },
+    "correct_option": "C"
+  },
+  {
+    "index": 9029,
+    "question": "Which condiment has the strongest seafood flavor?",
+    "options": {
+      "A": "Fish sauce",
+      "B": "Soy sauce",
+      "C": "Sesame oil",
+      "D": "Cooking wine"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 9022,
+    "question": "Which seasoning has the most pungent smell?",
+    "options": {
+      "A": "Chicken powder",
+      "B": "Sichuan peppercorn",
+      "C": "Salt",
+      "D": "Ground cinnamon"
+    },
+    "correct_option": "B"
+  },
+  {
+    "index": 9079,
+    "question": "Which of the following has the most pungent odor?",
+    "options": {
+      "A": "Used shuttlecock",
+      "B": "Straw that has been used for drinking milk",
+      "C": "Tissue paper that has been used for wiping tables",
+      "D": "Moldy toothbrush"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 9030,
+    "question": "Which seasoning has the strongest woody aroma?",
+    "options": {
+      "A": "Cinnamon bark",
+      "B": "Salt",
+      "C": "Vinegar",
+      "D": "White sugar"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 9097,
+    "question": "Which place is most likely to have a caramel scent?",
+    "options": {
+      "A": "Chemical plant",
+      "B": "Garden",
+      "C": "Restaurant",
+      "D": "Cafes"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 9016,
+    "question": "Which snack is most likely to have a milky aroma?",
+    "options": {
+      "A": "Cookies",
+      "B": "Potato chips",
+      "C": "Cod fish slices",
+      "D": "Nori"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 9011,
+    "question": "Which dish has the most pungent aroma?",
+    "options": {
+      "A": "Sweet and sour spare ribs",
+      "B": "Stir-fried eggs and tomatoes",
+      "C": "Egg fried rice",
+      "D": "Spicy chicken"
+    },
+    "correct_option": "D"
+  },
+  {
+    "index": 9008,
+    "question": "Which fruit has the most far-reaching aroma when ripe?",
+    "options": {
+      "A": "Durian",
+      "B": "Banana",
+      "C": "Orange",
+      "D": "Apple"
+    },
+    "correct_option": "A"
+  },
+  {
+    "index": 9003,
+    "question": "Which vegetable often has a subtle fruity aroma?",
+    "options": {
+      "A": "Chinese yam",
+      "B": "Tomato",
+      "C": "Spinach",
+      "D": "Soybean"
+    },
+    "correct_option": "B"
+  }
+]
